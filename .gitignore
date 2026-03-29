@@ -5,3 +5,6 @@ ink-ai-hack-playground/node_modules/
 ink-ai-hack-playground/dist/
 .env
 *.log
+# Large 3D files (keep small test assets)
+test-assets/full-table-design.stl
+full-claude-code-history.md
