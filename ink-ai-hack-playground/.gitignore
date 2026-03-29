@@ -17,6 +17,13 @@ dist-ssr
 # One-off scripts with local paths
 presentation/make_tokenization_viz.py
 
+# Large media assets — kept locally but not pushed
+presentation/assets/*.gif
+presentation/assets/*.png
+presentation/assets/*.mp4
+src/elements/nonogram/nonogram.gif
+test-assets/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
