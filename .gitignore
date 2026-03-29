@@ -1,0 +1,7 @@
+node_modules/
+slides/
+dist/
+ink-ai-hack-playground/node_modules/
+ink-ai-hack-playground/dist/
+.env
+*.log
