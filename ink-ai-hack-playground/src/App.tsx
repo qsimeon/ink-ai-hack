@@ -143,7 +143,7 @@ function App() {
 
   // Ref to always access the latest note state from async callbacks (avoids stale closures)
   const currentNoteRef = useRef(currentNote);
-  currentNoteRef.current = currentNote;
+  useEffect(() => { currentNoteRef.current = currentNote; });
 
   // CAD file upload ref (SVG/DXF)
   const cadFileInputRef = useRef<HTMLInputElement>(null);

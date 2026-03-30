@@ -103,7 +103,9 @@ npm run dev                  # http://localhost:5173
 
 ```
 INK_RECOGNITION_API_URL=<handwriting recognition endpoint>
-INK_FAL_AI_API_KEY=<your fal.ai key>        # optional — falls back to mock
+INK_OPENROUTER_API_KEY=<openrouter key for LLM inference>
+INK_FAL_AI_API_KEY=<fal.ai key for sketch-to-image>   # optional — falls back to mock
+INK_GEMINI_API_KEY=<gemini key>                        # optional alternative to fal.ai
 ```
 
 ---
@@ -115,7 +117,6 @@ INK_FAL_AI_API_KEY=<your fal.ai key>        # optional — falls back to mock
 | File | Type | Description |
 |------|------|-------------|
 | `spur_gear_18t.svg` | SVG | 18-tooth spur gear |
-| `gear_pulleys_assembly.svg` | SVG | Pulley + belt assembly |
 | `gear_pump_assembly.svg` | SVG | Gear pump cross-section |
 | `jet_engine_section.svg` | SVG | Jet engine cutaway |
 | `bevel_gear_assembly.svg` | SVG | Bevel gear pair |
