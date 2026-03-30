@@ -9,3 +9,4 @@ ink-ai-hack-playground/dist/
 # Large 3D files (keep small test assets)
 test-assets/full-table-design.stl
 full-claude-code-history.md
+.vercel
