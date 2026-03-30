@@ -1115,7 +1115,7 @@ function App() {
 
   return (
     <div className="app">
-      <div className="canvas-container">
+      <div className="canvas-container" style={viewer3dState ? { pointerEvents: 'none' } : undefined}>
         <InkCanvas
           noteElements={currentNote}
           showDebugOverlay={showDebug}
