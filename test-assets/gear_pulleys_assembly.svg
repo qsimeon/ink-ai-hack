@@ -264,18 +264,6 @@
      d="M 628.85468,88.31087 C 628.85468,90.49118 627.08707,92.25867 624.90662,92.25867 C 622.72618,92.25867 620.95857,90.49118 620.95857,88.31087 C 620.95857,86.13057 622.72618,84.36307 624.90662,84.36307 C 627.08707,84.36307 628.85468,86.13057 628.85468,88.31087 z "
      style="color:#000000;fill:#1b11fe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
      id="path2788" />
-  <text
-     x="419.95004"
-     y="163.53633"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text2802"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="419.95004"
-       y="163.53633"
-       id="tspan2804"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =50 N</tspan></text>
   <path
      d="M 606.08306,498.88549 L 606.08306,538.36352 L 601.01538,538.36352 L 606.08306,554.15471 L 611.50431,538.36351 L 606.08306,538.36352"
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -300,18 +288,6 @@
        style="fill:url(#linearGradient2837);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2664876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path2809" />
   </g>
-  <text
-     x="477.31601"
-     y="527.21039"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1945"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="477.31601"
-       y="527.21039"
-       id="tspan1947"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =100 N</tspan></text>
   <path
      d="M 698.72805,212.85004 L 633.53069,212.85004 L 619.85139,226.52847"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -329,18 +305,6 @@
      d="M 682.04559,219.68925 L 689.02489,212.71046"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path2843" />
-  <text
-     x="702.47968"
-     y="221.01555"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text2845"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="702.47968"
-       y="221.01555"
-       id="tspan2847"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">50 N</tspan></text>
   <path
      d="M 1072.1818,414.04599 C 1072.1818,435.63104 1054.6825,453.12918 1033.0961,453.12918 C 1011.5096,453.12918 994.01029,435.63104 994.01029,414.04599 C 994.01029,392.46093 1011.5096,374.96279 1033.0961,374.96279 C 1054.6825,374.96279 1072.1818,392.46093 1072.1818,414.04599 z "
      style="color:#000000;fill:#b6b6b6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999928;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -391,18 +355,6 @@
      d="M 1037.0442,414.04607 C 1037.0442,416.22638 1035.2766,417.99387 1033.0961,417.99387 C 1030.9157,417.99387 1029.1481,416.22638 1029.1481,414.04607 C 1029.1481,411.86576 1030.9157,410.09828 1033.0961,410.09828 C 1035.2766,410.09828 1037.0442,411.86576 1037.0442,414.04607 z "
      style="color:#000000;fill:#1b11fe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
      id="path2885" />
-  <text
-     x="792.30383"
-     y="163.73953"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text2893"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="792.30383"
-       y="163.73953"
-       id="tspan2895"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =33</tspan></text>
   <path
      d="M 938.32199,141.95592 L 922.10831,177.95168 L 916.9047,175.77768 L 915.62279,192.34998 L 927.02868,180.53774 L 922.10831,177.95168"
      style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -424,18 +376,6 @@
      d="M 1077.0457,219.28669 L 1084.0249,212.3079"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path2905" />
-  <text
-     x="1098.0341"
-     y="220.48164"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text2907"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1098.0341"
-       y="220.48164"
-       id="tspan2909"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">33</tspan></text>
   <path
      d="M 1049.5582,215.37857 L 1055.6999,221.38033 L 1043.556,227.10294 L 1049.5582,215.37857 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -448,18 +388,6 @@
      d="M 994.74299,497.92134 L 994.74299,537.39937 L 989.67539,538.10648 L 994.74299,553.19056 L 999.81069,538.10648 L 994.74299,537.39937"
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2925" />
-  <text
-     x="868.54718"
-     y="526.85364"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text2927"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="868.54718"
-       y="526.85364"
-       id="tspan2929"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =100 N</tspan></text>
   <path
      d="M 845.77016,373.46041 L 824.94215,363.68582"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -485,18 +413,6 @@
      d="M 867.69152,278.85004 L 863.63852,277.00594 L 868.62279,271.92763 L 867.69152,278.85004 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path3029" />
-  <text
-     x="734.11444"
-     y="314.0495"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text3031"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="734.11444"
-       y="314.0495"
-       id="tspan3033"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">s=30 cm</tspan></text>
   <path
      d="M 468.69691,343.61074 L 446.68388,332.91778"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -519,18 +435,6 @@
      d="M 474.50298,279.02324 L 470.43404,277.21456 L 475.37381,272.09296 L 474.50298,279.02324 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path3045" />
-  <text
-     x="349.9679"
-     y="302.8515"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text3047"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="349.9679"
-       y="302.8515"
-       id="tspan3049"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">s=20 cm</tspan></text>
   <path
      d="M 535.83136,1.391816 L 535.16447,26.310644 L 733.69572,26.310644 L 742.36544,0.872878"
      style="opacity:1;color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -575,50 +479,6 @@
      d="M 535.48278,26.265742 L 733.97267,26.363103"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path3989" />
-  <text
-     x="801.625"
-     y="170.0882"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text4891"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="801.625"
-       y="170.0882"
-       id="tspan4893"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">Z</tspan></text>
-  <text
-     x="878.50055"
-     y="532.81323"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text4895"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="878.50055"
-       y="532.81323"
-       id="tspan4897"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">L</tspan></text>
-  <text
-     x="430.40149"
-     y="171.0455"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text4899"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="430.40149"
-       y="171.0455"
-       id="tspan4901"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">Z</tspan></text>
-  <text
-     x="487.50049"
-     y="534.39862"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text4903"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="487.50049"
-       y="534.39862"
-       id="tspan4905"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">L</tspan></text>
   <path
      d="M 263.90536,88.25414 C 263.90536,110.05723 246.22931,127.73213 224.42479,127.73213 C 202.62028,127.73213 184.94422,110.05723 184.94422,88.25414 C 184.94422,66.45104 202.62028,48.77615 224.42479,48.77615 C 246.22931,48.77615 263.90536,66.45104 263.90536,88.25414 z "
      style="color:#000000;fill:#b6b6b6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -635,18 +495,6 @@
      d="M 228.37283,88.25417 C 228.37283,90.43448 226.60522,92.20197 224.42477,92.20197 C 222.24433,92.20197 220.47672,90.43448 220.47672,88.25417 C 220.47672,86.07387 222.24433,84.30637 224.42477,84.30637 C 226.60522,84.30637 228.37283,86.07387 228.37283,88.25417 z "
      style="color:#000000;fill:#1b11fe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
      id="path1467" />
-  <text
-     x="11.187028"
-     y="162.84084"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1469"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="11.187028"
-       y="162.84084"
-       id="tspan1471"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =100 N</tspan></text>
   <path
      d="M 225.69047,498.81985 L 225.69047,538.29788 L 220.62279,538.29788 L 225.69047,554.08907 L 231.11172,538.29787 L 225.69047,538.29788"
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -675,18 +523,6 @@
        style="fill:url(#linearGradient1577);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2664876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path1489" />
   </g>
-  <text
-     x="98.328575"
-     y="529.49182"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1491"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="98.328575"
-       y="529.49182"
-       id="tspan1493"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =100 N</tspan></text>
   <path
      d="M 223.90593,676.04985 L 200.89783,676.04985"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -708,18 +544,6 @@
      d="M 206.28934,649.96794 L 201.83674,650.02041 L 204.19099,643.30582 L 206.28934,649.96794 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path1517" />
-  <text
-     x="86.039291"
-     y="668.0683"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1519"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="86.039291"
-       y="668.0683"
-       id="tspan1521"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">h=10 cm</tspan></text>
   <path
      d="M 99.35199,321.66489 L 77.08989,311.01193"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -742,18 +566,6 @@
      d="M 107.54919,297.33103 L 103.49619,295.48691 L 108.48047,290.40861 L 107.54919,297.33103 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path1531" />
-  <text
-     x="114.65646"
-     y="318.48489"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1533"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="114.65646"
-       y="318.48489"
-       id="tspan1535"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">s=10 cm</tspan></text>
   <path
      d="M 135.34951,1.3351202 L 134.68262,26.25395 L 333.21387,26.25395 L 341.88359,0.8161802"
      style="opacity:1;color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -798,61 +610,6 @@
      d="M 135.00093,26.20905 L 333.49082,26.30641"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path1559" />
-  <text
-     x="36.415932"
-     y="63.610569"
-     style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     id="text1563"
-     xml:space="preserve"
-     sodipodi:linespacing="100%"><tspan
-       x="36.415932"
-       y="63.610569"
-       id="tspan1565"
-       style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana">1</tspan></text>
-  <text
-     x="21.625"
-     y="170.35004"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1567"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="21.625"
-       y="170.35004"
-       id="tspan1569"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">Z</tspan></text>
-  <text
-     x="108.5005"
-     y="536.67999"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1571"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="108.5005"
-       y="536.67999"
-       id="tspan1573"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">L</tspan></text>
-  <text
-     x="436.41592"
-     y="63.815395"
-     style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     id="text1518"
-     xml:space="preserve"
-     sodipodi:linespacing="100%"><tspan
-       x="436.41592"
-       y="63.815395"
-       id="tspan1520"
-       style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana">2</tspan></text>
-  <text
-     x="836.41595"
-     y="64.815399"
-     style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     id="text1522"
-     xml:space="preserve"
-     sodipodi:linespacing="100%"><tspan
-       x="836.41595"
-       y="64.815399"
-       id="tspan1524"
-       style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana">3</tspan></text>
   <path
      d="M 290.37279,212.36038 C 290.37279,212.36038 280.15574,212.36429 280.15184,212.36038"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -866,18 +623,6 @@
      d="M 272.43949,219.19959 L 279.41879,212.2208"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path1548" />
-  <text
-     x="293.06061"
-     y="220.48164"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1550"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="293.06061"
-       y="220.48164"
-       id="tspan1552"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">100 N</tspan></text>
   <path
      d="M 934.17238,1.6346385 L 933.50549,26.553467 L 1132.0367,26.553467 L 1140.7065,1.1157005"
      style="opacity:1;color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -993,18 +738,6 @@
      d="M 1425.5446,91.071431 C 1425.5446,93.251741 1423.777,95.019221 1421.5965,95.019221 C 1419.4161,95.019221 1417.6485,93.251741 1417.6485,91.071431 C 1417.6485,88.891121 1419.4161,87.123631 1421.5965,87.123631 C 1423.777,87.123631 1425.5446,88.891121 1425.5446,91.071431 z "
      style="color:#000000;fill:#1b11fe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
      id="path6774" />
-  <text
-     x="1215.2045"
-     y="160.82159"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6776"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1215.2045"
-       y="160.82159"
-       id="tspan6778"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =25 N</tspan></text>
   <path
      d="M 1336.9346,142.05808 L 1320.7209,178.05384 L 1315.5173,175.87984 L 1314.2354,192.45214 L 1325.6413,180.6399 L 1320.7209,178.05384"
      style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1026,18 +759,6 @@
      d="M 1477.2957,279.11298 L 1484.2749,272.13419"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path6788" />
-  <text
-     x="1497.0209"
-     y="280.48364"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6790"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1497.0209"
-       y="280.48364"
-       id="tspan6792"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">25 N</tspan></text>
   <path
      d="M 1420.481,275.20486 L 1426.6228,281.20662 L 1414.4789,286.92923 L 1420.481,275.20486 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1058,18 +779,6 @@
      d="M 1393.3555,498.0235 L 1393.3555,537.50153 L 1388.2879,538.20864 L 1393.3555,553.29272 L 1398.4232,538.20864 L 1393.3555,537.50153"
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path6802" />
-  <text
-     x="1268.5341"
-     y="525.72034"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6804"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1268.5341"
-       y="525.72034"
-       id="tspan6806"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">F =100 N</tspan></text>
   <path
      d="M 1230.328,404.46041 L 1209.5,394.68582"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1095,51 +804,6 @@
      d="M 1266.6026,278.92826 L 1262.5496,277.08416 L 1267.5339,272.00585 L 1266.6026,278.92826 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path6832" />
-  <text
-     x="1129.837"
-     y="321.57343"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6834"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1129.837"
-       y="321.57343"
-       id="tspan6836"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">s=40 cm</tspan></text>
-  <text
-     x="1225.5422"
-     y="168.80316"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6838"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1225.5422"
-       y="168.80316"
-       id="tspan6840"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">Z</tspan></text>
-  <text
-     x="1278.5005"
-     y="531.67999"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text6842"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1278.5005"
-       y="531.67999"
-       id="tspan6844"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">L</tspan></text>
-  <text
-     x="1235.0283"
-     y="64.917564"
-     style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     id="text6846"
-     xml:space="preserve"
-     sodipodi:linespacing="100%"><tspan
-       x="1235.0283"
-       y="64.917564"
-       id="tspan6848"
-       style="font-size:74.38124084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana">4</tspan></text>
   <path
      d="M 1332.785,1.7367914 L 1332.1181,26.655621 L 1530.6492,26.655621 L 1539.319,1.2178514"
      style="opacity:1;color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
@@ -1214,30 +878,6 @@
      d="M 1132.6544,221.35004 L 1147.7076,200.18667 L 1149.8542,200.18667 L 1134.8009,221.35004 L 1132.6544,221.35004 M 1134.0626,210.54961 L 1134.0626,202.97564 C 1133.1329,203.71392 1132.1121,204.22887 1131,204.52051 L 1131,202.83893 C 1132.422,202.38323 1133.6114,201.53105 1134.5685,200.28237 L 1136.0451,200.28237 L 1136.0451,210.54961 L 1134.0626,210.54961 M 1144.2075,218.28764 L 1146.2037,218.08256 C 1146.3859,218.62031 1146.6229,218.99399 1146.9146,219.20362 C 1147.3066,219.47705 1147.7714,219.61376 1148.3092,219.61376 C 1148.9472,219.61376 1149.4622,219.4406 1149.8542,219.09425 C 1150.2552,218.73879 1150.4557,218.30587 1150.4558,217.79546 C 1150.4557,216.7929 1149.7311,216.29161 1148.2819,216.29161 C 1148.218,216.29161 1148.0904,216.30072 1147.899,216.31895 C 1147.7167,216.32807 1147.5937,216.33263 1147.5299,216.33262 L 1147.8307,214.82876 C 1149.2526,214.847 1149.9635,214.38218 1149.9635,213.43428 C 1149.9635,212.62311 1149.4212,212.21754 1148.3365,212.21753 C 1147.4159,212.21754 1146.7688,212.68236 1146.3951,213.61201 L 1144.4399,213.29756 C 1144.8136,212.32234 1145.283,211.64789 1145.8482,211.2742 C 1146.4224,210.8914 1147.2564,210.70001 1148.3502,210.7 C 1150.8568,210.70001 1152.1101,211.55219 1152.1101,213.25655 C 1152.1101,214.35028 1151.4812,215.07941 1150.2233,215.44398 C 1151.8002,215.82679 1152.5886,216.6972 1152.5886,218.05522 C 1152.5886,218.93931 1152.2286,219.67756 1151.5085,220.26999 C 1150.7429,220.89888 1149.7174,221.21332 1148.4322,221.21332 C 1146.0168,221.21332 1144.6085,220.23809 1144.2075,218.28764"
      id="path14379"
      sodipodi:nodetypes="cccccccccccccccssssssccssccssscsssc" />
-  <text
-     x="895.83752"
-     y="163.90488"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1580"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="895.83752"
-       y="163.90488"
-       id="tspan1582"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">N</tspan></text>
-  <text
-     x="1160.0374"
-     y="220.39961"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text1584"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1160.0374"
-       y="220.39961"
-       id="tspan1586"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">N</tspan></text>
   <path
      id="path3425"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1259,18 +899,6 @@
      id="path3433"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 586.68433,649.96794 L 582.23173,650.02041 L 584.58598,643.30582 L 586.68433,649.96794 z " />
-  <text
-     sodipodi:linespacing="125%"
-     xml:space="preserve"
-     id="text3435"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     transform="scale(1.000033,0.999967)"
-     y="668.0683"
-     x="466.42172"><tspan
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial"
-       id="tspan3437"
-       y="668.0683"
-       x="466.42172">h=10 cm</tspan></text>
   <path
      id="path3441"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1292,18 +920,6 @@
      id="path3449"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 975.51378,649.96794 L 971.06118,650.02041 L 973.41543,643.30582 L 975.51378,649.96794 z " />
-  <text
-     sodipodi:linespacing="125%"
-     xml:space="preserve"
-     id="text3451"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     transform="scale(1.000033,0.999967)"
-     y="668.0683"
-     x="855.23834"><tspan
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial"
-       id="tspan3453"
-       y="668.0683"
-       x="855.23834">h=10 cm</tspan></text>
   <path
      d="M 1391.7923,676.04985 L 1368.7842,676.04985"
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1325,16 +941,4 @@
      d="M 1374.1757,649.96794 L 1369.7231,650.02041 L 1372.0773,643.30582 L 1374.1757,649.96794 z "
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path3465" />
-  <text
-     x="1253.8872"
-     y="668.0683"
-     transform="scale(1.000033,0.999967)"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     id="text3467"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
-       x="1253.8872"
-       y="668.0683"
-       id="tspan3469"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">h=10 cm</tspan></text>
 </svg>
