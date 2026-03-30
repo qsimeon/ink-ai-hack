@@ -13,7 +13,6 @@
 import type { CadSketchElement } from './types';
 import type { BoundingBox } from '../../types/primitives';
 import { colorToCSSRGBA } from '../../types/brush';
-import type { RenderOptions } from '../registry/ElementPlugin';
 
 // ── Animation tracking ────────────────────────────────────────────────────────
 
@@ -32,7 +31,7 @@ export function hasActiveCadAnimations(): boolean {
 export function render(
   ctx: CanvasRenderingContext2D,
   element: CadSketchElement,
-  _options?: RenderOptions
+  /* options not used — cadsketch controls its own transform */
 ): void {
   const { transform, displayWidth: W, displayHeight: H, viewBox: vb } = element;
   const tx = transform.values[6];

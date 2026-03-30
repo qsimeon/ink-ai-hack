@@ -71,7 +71,7 @@ export function parseSvg(svgString: string): ParseResult {
       if (points.length >= 2) {
         primitives.push({ type: 'path', points, length: totalLength });
       }
-    } catch (e) {
+    } catch {
       // Some malformed paths throw — just skip
     }
   }

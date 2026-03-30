@@ -85,7 +85,8 @@ export default function CadViewer3D({ geometry, fileName, onSketch, onClose }: C
     renderer.setSize(VIEWER_SIZE, VIEWER_SIZE);
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     renderer.shadowMap.enabled = false;
-    containerRef.current.appendChild(renderer.domElement);
+    const container = containerRef.current;
+    container.appendChild(renderer.domElement);
     rendererRef.current = renderer;
 
     // ── OrbitControls ─────────────────────────────────────────────────────────
@@ -113,8 +114,8 @@ export default function CadViewer3D({ geometry, fileName, onSketch, onClose }: C
       edgesGeom.dispose();
       edgeMat.dispose();
       renderer.dispose();
-      if (containerRef.current?.contains(renderer.domElement)) {
-        containerRef.current.removeChild(renderer.domElement);
+      if (container?.contains(renderer.domElement)) {
+        container.removeChild(renderer.domElement);
       }
     };
   }, [geometry]);

@@ -43,7 +43,7 @@ function sampleArc(
   startDeg: number, endDeg: number
 ): Array<{ x: number; y: number }> {
   if (r < 0.001) return [];
-  let startRad = (startDeg * Math.PI) / 180;
+  const startRad = (startDeg * Math.PI) / 180;
   let endRad = (endDeg * Math.PI) / 180;
   // DXF arcs go counter-clockwise; if end <= start, it wraps around
   if (endRad <= startRad) endRad += 2 * Math.PI;
