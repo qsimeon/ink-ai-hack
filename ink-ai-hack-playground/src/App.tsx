@@ -34,16 +34,51 @@ import type { StylePresetKey } from './services/stylePresets';
 import { detectRectangleX, lastRectXRejection, type RectangleXResult } from './geometry/rectangleXDetection';
 import { createPaletteIntent } from './palette';
 import type { PaletteIntent, PaletteAction } from './palette';
-import { Toaster } from './toast/Toast';
+import { Toaster, showToast } from './toast/Toast';
 import { parseSvg } from './parsers/SvgParser';
 import { parseDxf } from './parsers/DxfParser';
 import { geometryToStrokes } from './parsers/GeometryToStrokes';
 import { createCadSketchElement } from './elements/cadsketch/types';
+import type { CadSketchElement } from './elements/cadsketch/types';
+import { createSketchableImageElement } from './elements/sketchableimage/types';
+import type { SketchableImageElement } from './elements/sketchableimage/types';
 import { loadStlGeometry, loadObjGeometry } from './parsers/ThreeDToGeometry';
 import type { GeometryPrimitive } from './parsers/SvgParser';
 import CadViewer3D from './components/CadViewer3D';
+import { getFalAiService } from './services/FalAiService';
+import { buildPrompt } from './services/stylePresets';
+import { createPortal } from 'react-dom';
 import type * as THREE from 'three';
 import './App.css';
+
+// Rasterize a completed CadSketch to a 512×512 PNG data URL for fal.ai
+function rasterizeCadSketch(el: CadSketchElement): string {
+  const SIZE = 512;
+  const canvas = document.createElement('canvas');
+  canvas.width = SIZE;
+  canvas.height = SIZE;
+  const ctx = canvas.getContext('2d')!;
+  ctx.fillStyle = '#ffffff';
+  ctx.fillRect(0, 0, SIZE, SIZE);
+  const { viewBox: vb, strokes } = el;
+  const sx = vb.w > 0 ? SIZE / vb.w : 1;
+  const sy = vb.h > 0 ? SIZE / vb.h : 1;
+  for (const stroke of strokes) {
+    const pts = stroke.inputs.inputs;
+    if (pts.length < 2) continue;
+    ctx.beginPath();
+    ctx.strokeStyle = '#1a1a2e';
+    ctx.lineWidth = Math.max(1, stroke.brush.size * sx);
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.moveTo((pts[0].x - vb.x) * sx, (pts[0].y - vb.y) * sy);
+    for (let j = 1; j < pts.length; j++) {
+      ctx.lineTo((pts[j].x - vb.x) * sx, (pts[j].y - vb.y) * sy);
+    }
+    ctx.stroke();
+  }
+  return canvas.toDataURL('image/png');
+}
 
 
 
@@ -415,6 +450,33 @@ function App() {
 
       const latest = currentNoteRef.current;
       setCurrentNote({ ...latest, elements: [...latest.elements, element] });
+
+      // After animation completes, send sketch to fal.ai for AI image generation
+      const cadEl = element;
+      setTimeout(async () => {
+        try {
+          showToast('Sketch complete — AI is rendering…');
+          const sketchDataUrl = rasterizeCadSketch(cadEl);
+          const name = cadEl.sourceFileName.replace(/\.[^.]+$/, '');
+          const prompt = buildPrompt(DEFAULT_STYLE_PRESET) + `, ${name}`;
+          const result = await getFalAiService().refineImage(
+            { imageDataUrls: [sketchDataUrl], prompt },
+            new AbortController().signal,
+          );
+          const aiEl: SketchableImageElement = {
+            ...createSketchableImageElement(
+              cadEl.transform.values[6] + cadEl.displayWidth + 30,
+              cadEl.transform.values[7],
+            ),
+            bitmapDataUrl: result.imageDataUrl,
+          };
+          const note = currentNoteRef.current;
+          setCurrentNote({ ...note, elements: [...note.elements, aiEl] });
+          showToast('AI image ready!');
+        } catch (err) {
+          console.warn('[CAD AI] Refinement skipped:', err);
+        }
+      }, cadEl.totalDuration + 1200);
     } catch (err) {
       console.error('[CAD] Failed to parse file:', err);
     }
@@ -462,6 +524,33 @@ function App() {
     const latest = currentNoteRef.current;
     setCurrentNote({ ...latest, elements: [...latest.elements, element] });
     setViewer3dState(null); // close modal
+
+    // After animation completes, send sketch to fal.ai for AI image generation
+    const cadEl = element;
+    setTimeout(async () => {
+      try {
+        showToast('Sketch complete — AI is rendering…');
+        const sketchDataUrl = rasterizeCadSketch(cadEl);
+        const name = cadEl.sourceFileName.replace(/\.[^.]+$/, '');
+        const prompt = buildPrompt(DEFAULT_STYLE_PRESET) + `, ${name}`;
+        const result = await getFalAiService().refineImage(
+          { imageDataUrls: [sketchDataUrl], prompt },
+          new AbortController().signal,
+        );
+        const aiEl: SketchableImageElement = {
+          ...createSketchableImageElement(
+            cadEl.transform.values[6] + cadEl.displayWidth + 30,
+            cadEl.transform.values[7],
+          ),
+          bitmapDataUrl: result.imageDataUrl,
+        };
+        const note = currentNoteRef.current;
+        setCurrentNote({ ...note, elements: [...note.elements, aiEl] });
+        showToast('AI image ready!');
+      } catch (err) {
+        console.warn('[CAD AI] Refinement skipped:', err);
+      }
+    }, cadEl.totalDuration + 1200);
   }, [viewer3dState, setCurrentNote]);
 
   // Handle new note
@@ -1380,13 +1469,14 @@ function App() {
         </div>
       )}
 
-      {viewer3dState && (
+      {viewer3dState && createPortal(
         <CadViewer3D
           geometry={viewer3dState.geometry}
           fileName={viewer3dState.fileName}
           onSketch={handleSketch3d}
           onClose={() => setViewer3dState(null)}
-        />
+        />,
+        document.body,
       )}
 
       <Toaster />

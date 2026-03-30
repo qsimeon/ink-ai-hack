@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" width="284.79mm" height="208.22mm" inkscape:version="0.92.1 r15371" sodipodi:docname="Gear_pump_exploded-ru.svg" viewBox="0 0 284.79 208.22">
+ <switch>
+  
+  
+ </switch>
+ <linearGradient id="linearGradient5475" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#b9ab37" offset="0"/>
+  <stop stop-color="#f9e281" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5072" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#a33130" offset="0"/>
+  <stop stop-color="#c73d3b" offset=".5335"/>
+  <stop stop-color="#a33130" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5762" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#4d4d4d" offset="0"/>
+  <stop stop-color="#f9f9f9" offset=".5335"/>
+  <stop stop-color="#1a1a1a" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5078" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#806600" offset="0"/>
+  <stop stop-color="#fea" offset=".70421"/>
+  <stop stop-color="#666" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7211" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#806600" offset="0"/>
+  <stop stop-color="#fea" offset=".62864"/>
+  <stop stop-color="#540" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7025" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop offset="0"/>
+  <stop stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6837" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#663267" offset="0"/>
+  <stop stop-color="#bd5ebd" offset=".41672"/>
+  <stop stop-color="#bd5ebd" offset=".5267"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6773" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#572a58" offset="0"/>
+  <stop stop-color="#c462c5" offset=".81797"/>
+  <stop stop-color="#426599" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7579" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83aafc" offset=".13588"/>
+  <stop stop-color="#4e76a5" offset=".56225"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7366" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83bcfc" offset=".38754"/>
+  <stop stop-color="#83bdfd" offset=".47835"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6715" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#583a18" offset="0"/>
+  <stop stop-color="#c98637" offset=".41672"/>
+  <stop stop-color="#c28135" offset=".5267"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6723" x1="87.18" x2="95.83" y1="128.4" y2="143.17" inkscape:collect="always" xlink:href="#linearGradient6715"/>
+ <linearGradient id="linearGradient6731" x1="92.9" x2="101.66" y1="125.77" y2="142.12" inkscape:collect="always" xlink:href="#linearGradient6715"/>
+ <linearGradient id="linearGradient4805" x1="60.47" x2="66.07" y1="54.97" y2="65.48" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83aafc" offset=".13588"/>
+  <stop stop-color="#4e76a5" offset=".33635"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4807" x1="71.77" x2="77.84" y1="38.05" y2="48.82" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#7bb1f4" offset="0"/>
+  <stop stop-color="#81bafe" offset=".34821"/>
+  <stop stop-color="#648cca" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4811" x1="54.24" x2="58.46" y1="42.95" y2="51.21" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83aafc" offset=".13588"/>
+  <stop stop-color="#4e76a5" offset=".61633"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4813" x1="59.92" x2="67.89" y1="38.05" y2="52.89" inkscape:collect="always" xlink:href="#linearGradient7579"/>
+ <linearGradient id="linearGradient4815" x1="59.73" x2="64.88" y1="53.55" y2="63.25" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#4d79b2" offset="0"/>
+  <stop stop-color="#82bbfb" offset=".81797"/>
+  <stop stop-color="#85bffe" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4817" x1="64.4" x2="69.86" y1="55.52" y2="65.46" inkscape:collect="always" xlink:href="#linearGradient7579"/>
+ <linearGradient id="linearGradient4819" x1="-260.58" x2="-252.59" y1="242.71" y2="261.92" gradientTransform="matrix(.67372 0 0 .81792 239.96 -138.32)" inkscape:collect="always" xlink:href="#linearGradient7366"/>
+ <linearGradient id="linearGradient4821" x1="66.35" x2="71.81" y1="65.61" y2="75.53" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#698dd2" offset=".52754"/>
+  <stop stop-color="#4e76a5" offset=".7837"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4823" x1="71.7" x2="76.14" y1="65.77" y2="74.03" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#83bbfb" offset="0"/>
+  <stop stop-color="#6d9fd8" offset=".38754"/>
+  <stop stop-color="#73a7e2" offset=".60739"/>
+  <stop stop-color="#72a7e7" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4825" x1="68.83" x2="77.47" y1="73.29" y2="88.63" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83bcfc" offset=".38754"/>
+  <stop stop-color="#83bdfd" offset=".47835"/>
+  <stop stop-color="#446da0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4827" x1="67.6" x2="72.51" y1="76.24" y2="85.29" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#81a8f8" offset="0"/>
+  <stop stop-color="#83bcfc" offset=".54454"/>
+  <stop stop-color="#6ea3e3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4829" x1="72.66" x2="77.6" y1="80.2" y2="89.5" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#93a4ba" offset=".34783"/>
+  <stop stop-color="#4e76ab" offset=".53182"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4831" x1="74.07" x2="80.14" y1="80.42" y2="91.58" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#83aafc" offset=".53379"/>
+  <stop stop-color="#4e76ab" offset=".82298"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient4833" x1="52.16" x2="59.94" y1="65.37" y2="79.22" inkscape:collect="always" xlink:href="#linearGradient7366"/>
+ <linearGradient id="linearGradient4835" x1="39.95" x2="41.32" y1="61.31" y2="63.69" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#3d3d3d" offset=".13588"/>
+  <stop stop-color="#3d3d3d" offset=".33635"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5109" x1="60.47" x2="65.58" y1="54.97" y2="60.96" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#663267" offset="0"/>
+  <stop stop-color="#8e468e" offset=".21479"/>
+  <stop stop-color="#783b79" offset=".39695"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5111" x1="71.77" x2="82.29" y1="38.16" y2="52.38" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.77 -129.9)" inkscape:collect="always" xlink:href="#linearGradient6837"/>
+ <linearGradient id="linearGradient5115" x1="54.24" x2="60.17" y1="42.95" y2="50.33" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" inkscape:collect="always" xlink:href="#linearGradient6837"/>
+ <linearGradient id="linearGradient5117" x1="59.92" x2="69.94" y1="38.05" y2="50.79" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" inkscape:collect="always" xlink:href="#linearGradient6773"/>
+ <linearGradient id="linearGradient5119" x1="61.04" x2="65.91" y1="56.68" y2="62.86" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#663267" offset="0"/>
+  <stop stop-color="#bf70bf" offset=".36393"/>
+  <stop stop-color="#c873c8" offset=".56047"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5121" x1="65.41" x2="69.61" y1="56.63" y2="61.82" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#673368" offset="0"/>
+  <stop stop-color="#773b77" offset=".18264"/>
+  <stop stop-color="#934993" offset=".43576"/>
+  <stop stop-color="#683369" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5125" x1="67.34" x2="71.52" y1="66.65" y2="71.73" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#572a58" offset="0"/>
+  <stop stop-color="#924992" offset=".30425"/>
+  <stop stop-color="#934993" offset=".88599"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5127" x1="69.61" x2="78.6" y1="63.18" y2="73.06" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#663267" offset="0"/>
+  <stop stop-color="#bf70bf" offset=".24597"/>
+  <stop stop-color="#c873c8" offset=".56047"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5129" x1="68.83" x2="74.12" y1="73.29" y2="79.8" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#572a58" offset="0"/>
+  <stop stop-color="#924992" offset=".31179"/>
+  <stop stop-color="#572a58" offset=".56225"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5131" x1="100.78" x2="115.52" y1="31.03" y2="47.85" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -444.27 -95.91)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2f4c72" offset="0"/>
+  <stop stop-color="#924992" offset=".31179"/>
+  <stop stop-color="#bc5dbc" offset=".56225"/>
+  <stop stop-color="#325078" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5133" x1="72.89" x2="77.45" y1="79.98" y2="85.12" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2c102d" offset="0"/>
+  <stop stop-color="#c462c5" offset=".81797"/>
+  <stop stop-color="#426599" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5135" x1="74.07" x2="80.3" y1="80.42" y2="88.38" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" inkscape:collect="always" xlink:href="#linearGradient6773"/>
+ <linearGradient id="linearGradient5137" x1="409.3" x2="417.08" y1="108.94" y2="122.79" gradientTransform="matrix(1.032 .05064 -.061388 .99932 -776.9 -184.41)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#653166" offset="0"/>
+  <stop stop-color="#8b458b" offset=".28746"/>
+  <stop stop-color="#bc5dbc" offset=".56225"/>
+  <stop stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5139" x1="39.95" x2="44.15" y1="61.31" y2="65.57" gradientTransform="matrix(1.014 .19853 -.20447 .9801 -399.79 -129.79)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#612f62" offset="0"/>
+  <stop stop-color="#884388" offset=".13588"/>
+  <stop stop-color="#572a58" offset=".56225"/>
+  <stop stop-color="#5e2e5f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6732" x1="-349.71" x2="-347.44" y1="-63.63" y2="-59.38" gradientTransform="matrix(.99992 .012854 -.012854 .99992 -.73 4.42)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#2a122a" offset="0"/>
+  <stop stop-color="#c462c5" offset=".81797"/>
+  <stop stop-color="#426599" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6963" x1="-168.39" x2="-165.25" y1="50.96" y2="56.71" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#1a1a1a" offset="0"/>
+  <stop stop-color="#ac9d93" offset=".38771"/>
+  <stop stop-color="#4d4d4d" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6971" x1="-174.97" x2="-170.46" y1="52.59" y2="60.82" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#333" offset="0"/>
+  <stop stop-color="#ac9d93" offset=".38771"/>
+  <stop stop-color="#666" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6987" x1="-176.91" x2="-167.51" y1="58.94" y2="57.14" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#333" offset="0"/>
+  <stop stop-color="#ececec" offset=".12462"/>
+  <stop stop-color="#4d4d4d" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7003" x1="-173.64" x2="-170.62" y1="58.53" y2="58.53" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#b3b3b3" offset="0"/>
+  <stop stop-color="#b3b3b3" stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7011" x1="-174.73" x2="-170.62" y1="57.42" y2="57.42" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#808080" offset="0"/>
+  <stop stop-color="#808080" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7019" x1="-174.73" x2="-172.29" y1="56.33" y2="56.33" inkscape:collect="always" xlink:href="#linearGradient7025"/>
+ <linearGradient id="linearGradient7027" x1="-173.64" x2="-170.85" y1="58.28" y2="58.28" inkscape:collect="always" xlink:href="#linearGradient7025"/>
+ <linearGradient id="linearGradient7029" x1="-174.73" x2="-172.29" y1="56.14" y2="56.14" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#4d4d4d" offset="0"/>
+  <stop stop-color="#4d4d4d" stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7195" x1="-393.21" x2="-397.75" y1="-44.17" y2="-55.55" inkscape:collect="always" xlink:href="#linearGradient7211"/>
+ <linearGradient id="linearGradient7203" x1="-392.15" x2="-396.76" y1="-45.84" y2="-54.28" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#806600" offset="0"/>
+  <stop stop-color="#fd5" offset=".45255"/>
+  <stop stop-color="#540" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7241" x1="-128.34" x2="-99.57" y1="187.04" y2="228.79" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#8e8423" offset="0"/>
+  <stop stop-color="#fd5" offset=".45255"/>
+  <stop stop-color="#fff" offset=".97042"/>
+  <stop stop-color="#c8ab37" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7263" x1="-86.11" x2="-46.3" y1="205.42" y2="266.5" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#eed96f" offset=".024909"/>
+  <stop stop-color="#b1a52f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7281" x1="116.4" x2="149.53" y1="123.18" y2="180.92" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#eed96f" offset=".041921"/>
+  <stop stop-color="#b1a52f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient7283" x1="75.79" x2="100.02" y1="105.51" y2="148.47" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#8e8423" offset="0"/>
+  <stop stop-color="#f7d751" stop-opacity=".95" offset=".45255"/>
+  <stop stop-color="#fff" offset=".76532"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5295" x1="-32.45" x2="-29.2" y1="166.83" y2="172.42" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient5297" x1="-31.9" x2="-28.65" y1="166.83" y2="172.42" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient5299" x1="-31.29" x2="-28.04" y1="166.73" y2="172.32" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient5301" x1="-30.75" x2="-27.5" y1="166.65" y2="172.24" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient5484" x1="69.45" x2="80.35" y1="116.04" y2="137.76" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#808080" offset="0"/>
+  <stop stop-color="#ffdb55" offset=".38771"/>
+  <stop stop-color="#666" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5500" x1="-90.27" x2="-88.11" y1="246.35" y2="246.37" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#d2c151" offset="0"/>
+  <stop stop-color="#fff" offset=".34496"/>
+  <stop stop-color="#d2c151" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5524" x1="107.51" x2="49.38" y1="143.28" y2="143.07" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#806600" offset="0"/>
+  <stop stop-color="#fea" offset=".66714"/>
+  <stop stop-color="#540" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5616" x1="63.04" x2="91.77" y1="157.44" y2="206.62" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#808080" offset="0"/>
+  <stop stop-color="#ffdb55" offset=".52284"/>
+  <stop stop-color="#666" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5734" x1="176.63" x2="187.13" y1="103.55" y2="119.84" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#4d4d4d" offset="0"/>
+  <stop stop-color="#f9f9f9" offset=".5335"/>
+  <stop stop-color="#4d4d4d" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5754" x1="183.8" x2="188.19" y1="104.85" y2="111.32" inkscape:collect="always" xlink:href="#linearGradient5762"/>
+ <linearGradient id="linearGradient5768" x1="183.44" x2="186.66" y1="106.57" y2="111.32" inkscape:collect="always" xlink:href="#linearGradient5762"/>
+ <linearGradient id="linearGradient5060" x1="176.63" x2="187.13" y1="103.55" y2="119.84" gradientTransform="matrix(1.3498 0 0 1.3309 -63.76 -36.91)" inkscape:collect="always" xlink:href="#linearGradient5072"/>
+ <linearGradient id="linearGradient5089" x1="174.83" x2="190.06" y1="111.41" y2="111.41" inkscape:collect="always" xlink:href="#linearGradient6715"/>
+ <linearGradient id="linearGradient5105" x1="173.34" x2="191.69" y1="111.24" y2="111.24" inkscape:collect="always" xlink:href="#linearGradient5072"/>
+ <linearGradient id="linearGradient5128" x1="221.25" x2="231.9" y1="55.07" y2="75.51" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#020c0f" offset="0"/>
+  <stop stop-color="#8fc641" offset=".38771"/>
+  <stop stop-color="#1e96af" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5168" x1="179.24" x2="192.4" y1="98.84" y2="124.15" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#a33130" offset="0"/>
+  <stop stop-color="#ff8080" offset=".5335"/>
+  <stop stop-color="#a33130" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5581" x1="-155.74" x2="-153.25" y1="45.68" y2="49.46" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#483e37" offset="0"/>
+  <stop stop-color="#c8beb7" offset=".38771"/>
+  <stop stop-color="#483e37" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6559" x1="116.32" x2="146.02" y1="97.5" y2="153.09" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#e2c956" offset="0"/>
+  <stop stop-color="#fea" offset=".67206"/>
+  <stop stop-color="#fea" offset=".69816"/>
+  <stop stop-color="#b1a52f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6212" x1="-393.21" x2="-397.75" y1="-43.65" y2="-55.03" inkscape:collect="always" xlink:href="#linearGradient7211"/>
+ <linearGradient id="linearGradient6242" x1="-321.45" x2="-279.98" y1="176.24" y2="217.56" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#863c0c" offset="0"/>
+  <stop stop-color="#faa" offset=".61057"/>
+  <stop stop-color="#ff8080" offset=".67692"/>
+  <stop stop-color="#803200" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6268" x1="-29.85" x2="-26.6" y1="166.18" y2="171.77" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient6270" x1="-30.28" x2="-27.03" y1="166.34" y2="171.93" inkscape:collect="always" xlink:href="#linearGradient5078"/>
+ <linearGradient id="linearGradient6516" x1="-345.81" x2="-319.73" y1="-66.6" y2="-66.6" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#800080" offset="0"/>
+  <stop stop-color="#800080" stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient6636" x1="-347.76" x2="-341.8" y1="-58.17" y2="-47.07" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#663267" offset="0"/>
+  <stop stop-color="#924992" offset=".36393"/>
+  <stop stop-color="#783c79" offset=".56047"/>
+  <stop stop-color="#65421b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5435" x1="115.02" x2="132.06" y1="120.87" y2="140.41" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#808080" offset="0"/>
+  <stop stop-color="#ac9f71" offset=".52441"/>
+  <stop stop-color="#666" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5451" x1="180.88" x2="188.77" y1="81.27" y2="92.47" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#020c0f" offset="0"/>
+  <stop stop-color="#97f322" offset=".38771"/>
+  <stop stop-color="#55792c" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5467" x1="-118.64" x2="-96.27" y1="233.47" y2="177.45" inkscape:collect="always" xlink:href="#linearGradient5475"/>
+ <linearGradient id="linearGradient5483" x1="-126.66" x2="-105.13" y1="279.66" y2="239.88" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+  <stop stop-color="#b4a732" offset="0"/>
+  <stop stop-color="#b9ab37" offset="1"/>
+ </linearGradient>
+ <linearGradient id="linearGradient5497" x1="67.24" x2="94.29" y1="157.87" y2="114.61" inkscape:collect="always" xlink:href="#linearGradient5475"/>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:current-layer="layer1-0" inkscape:cx="560.58599" inkscape:cy="413.46565" inkscape:document-units="mm" inkscape:guide-bbox="true" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="false" inkscape:snap-object-midpoints="true" inkscape:window-height="1054" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="1.1826172" pagecolor="#ffffff" showgrid="false" showguides="true"/>
+ <metadata>
+ </metadata>
+ <g transform="translate(-30.96 -16.09)">
+  <g inkscape:groupmode="layer" inkscape:label="Layer 1">
+   <g id="layer1-0" transform="translate(89.73 -42.82)" inkscape:label="Layer 1">
+    <g stroke-linecap="round" stroke-linejoin="round">
+     <path d="m-58.77 58.91h284.79v208.22h-284.79z" fill="#fff" stroke="#b565b9" stroke-width=".1" paint-order="fill markers stroke"/>
+     <g transform="matrix(.96153 -.014429 .014429 .96153 -14.92 16.31)" stroke-width=".2">
+      <path d="m180.32 81.474 54.097-28.573c.89-.311 1.647-.158 2.411-.03l-13.685 6.713 1.803.625 13.104-6.724c4.224 2.471 5.358 9.536 2.643 11.179l-53.666 28.807" fill="url(#linearGradient5128)" stroke="#008000" paint-order="fill markers stroke"/>
+      <path d="m187.03 93.471c-4.921 1.85-10.451-9.744-6.708-11.997 5.4-2.466 10.923 9.685 6.708 11.997z" fill="#437013" stroke="url(#linearGradient5451)" paint-order="fill markers stroke"/>
+      <path d="m236.83 52.871.033 1.316-11.914 6.021-1.803-.625z" fill="#006100" stroke="#052" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 -19.31 -4.95)">
+      <path d="m190.31 121.82c-9.6 4.821-20.203-17.727-12.674-22.35 10.202-4.594 20.639 18.043 12.674 22.35z" fill="url(#linearGradient5168)" stroke="#a00" stroke-width=".66" paint-order="fill markers stroke"/>
+      <path d="m188.83 122.59c-9.767 4.905-20.555-18.035-12.895-22.739 10.38-4.674 20.998 18.357 12.895 22.739z" fill="url(#linearGradient5060)" stroke="url(#linearGradient5105)" stroke-width=".67" paint-order="fill markers stroke"/>
+      <path d="m187.15 119.58c-7.172 3.601-15.093-13.243-9.468-16.697 7.622-3.432 15.419 13.479 9.468 16.697z" fill="none" stroke="#a3302f" stroke-width=".67" paint-order="fill markers stroke"/>
+      <path d="m187.33 120.46c-7.452 2.763-15.828-14.551-10.159-17.915 8.178-3.682 16.543 14.463 10.159 17.915z" fill="#fff" stroke="url(#linearGradient5089)" stroke-width=".94" paint-order="fill markers stroke"/>
+      <path d="m173.56 103.65c-1.212 4.612 2.933 17.376 11.624 19.513" fill="none" stroke="#a3302f" stroke-width=".67" paint-order="fill markers stroke"/>
+      <path d="m187.13 119.84c-7.236 3.685-15.227-13.551-9.553-17.085 7.69-3.512 15.556 13.793 9.553 17.085z" fill="url(#linearGradient5734)" stroke="url(#linearGradient5754)" stroke-width=".5" paint-order="fill markers stroke"/>
+      <path d="m185.88 117.58c-5.313 2.706-11.181-9.95-7.014-12.545 5.646-2.579 11.423 10.128 7.014 12.545z" fill="#fff" stroke="url(#linearGradient5768)" stroke-width=".5" paint-order="fill markers stroke"/>
+      <g fill="none">
+       <path d="m186.02 118.24c-5.521 2.076-11.726-10.933-7.526-13.46 6.058-2.767 12.256 10.867 7.526 13.46z" stroke="#000" stroke-width=".7" paint-order="fill markers stroke"/>
+       <path d="m175.81 105.61c-.898 3.465 2.173 13.056 8.612 14.661" stroke="#4d4d4d" stroke-width=".5" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+     <path d="m103.1 168.96v-38.22c-4.163-19.84-37.368-35.375-45.54-21.128v35.134" fill="url(#linearGradient5497)" opacity=".95" stroke="#a80" stroke-width=".08" paint-order="fill markers stroke"/>
+     <path d="m57.561 144.74v38.22c4.244 20.001 37.368 35.375 45.54 21.128v-35.134" fill="#c1b441" fill-opacity=".95" opacity=".95" stroke="#ae8e0c" stroke-width=".08" paint-order="fill markers stroke"/>
+    </g>
+    <path d="m98.848 208.16c.05-.099 47.187-25.017 47.311-25.042 1.982-1.629 3.075-2.843 3.81-3.881l-46.868 24.852c-1.881 2.893-2.99 3.164-4.253 4.071z" fill="#806600" opacity=".95" paint-order="fill markers stroke"/>
+    <path d="m102.7 204.78c-1.119 1.462.827-.653 1.241-.979l-.3-73.268-.47.586-.037 72.663z" fill="#f4eed7" opacity=".95" stroke="#836a04" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" paint-order="fill markers stroke"/>
+    <path d="m103.48 130.58 46.399-24.672v73.354l-46.342 25.186z" fill="url(#linearGradient7281)" paint-order="fill markers stroke"/>
+    <path d="m149.98 106.48c-11.616-23.398-33.585-30.476-43.074-25.338l-44.408 24.041c8.186-5.054 34.98 4.844 40.729 25.934" fill="url(#linearGradient7283)" opacity=".95" stroke="#806600" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+    <g id="g5119" transform="matrix(.96163 0 0 .96163 89.55 -39.59)">
+     <g transform="matrix(.82353 0 0 .82353 295.32 210.15)">
+      <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke="#a80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" paint-order="fill markers stroke"/>
+      <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke="#a80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".01" paint-order="fill markers stroke"/>
+     </g>
+     <path d="m-28.382 171.55c-.001.065-.665.087-1.387-.63-.383-.374-.74-.878-.997-1.51-.01-.024-.019-.047-.028-.071-.244-.621-.326-1.207-.207-1.732.295-1.25 1.141-.813 1.08-1.03.01.037-.75.228-.903 1.068-.094.484-.001 1.018.23 1.617.009.023.018.045.027.068.246.606.575 1.091.927 1.464.624.649 1.258.719 1.258.757z" fill="url(#linearGradient5295)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -28.381716,171.55398 c -1.790082,-0.0193 -3.861966,-4.32216 -1.538296,-4.97331" inkscape:path-effect="#path-effect5054" paint-order="fill markers stroke"/>
+     <path d="m-27.972 171.41c0 .05-.628.105-1.311-.579-.354-.348-.674-.812-.913-1.392-.013-.031-.025-.062-.037-.093-.234-.596-.32-1.148-.251-1.649.141-1.041.831-.975.798-1.05.015.034-.548.311-.622 1.071-.045.468.051.975.275 1.55.012.03.024.059.036.089.23.556.522 1.001.844 1.347.578.61 1.181.668 1.181.706z" fill="url(#linearGradient5297)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -27.97246,171.41366 c -1.739448,-0.0105 -3.451525,-4.0098 -1.713691,-4.76283" inkscape:path-effect="#path-effect5082" paint-order="fill markers stroke"/>
+     <path d="m-27.797 171.17c-.003.053-.587.067-1.159-.615-.277-.324-.518-.733-.7-1.23-.025-.068-.048-.136-.069-.204-.179-.556-.237-1.044-.169-1.485.127-.916.674-.65.652-.762.007.034-.418.202-.485.783-.041.414.031.857.205 1.398.021.065.044.13.068.195.175.478.392.868.641 1.187.476.598 1.019.693 1.016.732z" fill="url(#linearGradient5299)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -27.797064,171.16811 c -1.591682,-0.0967 -2.796651,-4.02319 -1.444752,-4.29512" inkscape:path-effect="#path-effect5088" paint-order="fill markers stroke"/>
+     <path d="m-27.657 170.86c-.011.098-.403-.022-.763-.496-.241-.299-.462-.68-.644-1.152-.002-.005-.004-.009-.005-.014-.18-.468-.268-.884-.258-1.273.002-.707.431-.808.435-.799.017.032-.27.272-.261.798.015.365.11.74.284 1.198 0 0 .005.013.005.013.177.459.371.821.582 1.125.324.439.628.564.624.6z" fill="url(#linearGradient5301)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -27.656748,170.86409 c -0.853724,-0.0963 -2.232423,-3.19165 -1.234276,-3.73385" inkscape:path-effect="#path-effect5094" paint-order="fill markers stroke"/>
+     <path d="m-27.473 169.89c-.08.076-.42-.351-.681-.951-.008-.017-.015-.035-.022-.052-.107-.245-.176-.457-.209-.656-.066-.287.025-.469.077-.437.028.018.019.14.085.398.062.191.133.36.244.609.008.017.015.034.023.052.261.584.527.997.484 1.038z" fill="url(#linearGradient6268)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -27.473289,169.89458 c -0.299575,-0.31191 -1.035412,-1.77922 -0.835497,-2.09597" inkscape:path-effect="#path-effect5100" paint-order="fill markers stroke"/>
+     <path d="m-27.528 170.35c-.015.078-.324-.024-.593-.415-.17-.232-.323-.518-.453-.867-.008-.021-.015-.042-.023-.062-.133-.369-.201-.691-.211-.985-.044-.447.18-.646.221-.587.019.028-.081.198-.054.573.038.279.115.562.247.926.007.02.015.04.022.06.127.34.255.608.398.844.234.359.454.477.447.513z" fill="url(#linearGradient6270)" stroke="#a80" stroke-linejoin="round" stroke-width=".05" inkscape:original-d="m -27.528125,170.3496 c -0.675248,-0.13311 -1.55188,-2.57691 -1.058881,-2.91534" inkscape:path-effect="#path-effect5106" paint-order="fill markers stroke"/>
+    </g>
+    <use transform="translate(6.54 -13.24)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(31.79 .51)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(37.57 20.35)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(37.41 44.31)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(-.37 23.56)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(-.37 47.55)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(37.57 67.98)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(31.79 80.17)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <use transform="translate(6.24 66.92)" width="100%" height="100%" inkscape:spray-origin="#g5119" xlink:href="#g5119"/>
+    <g stroke-linejoin="round">
+     <path d="m90.866 160.71c-17.084 8.701-35.953-31.995-22.555-40.339 18.156-8.292 36.729 32.566 22.555 40.339z" fill="url(#linearGradient5484)" stroke="#806600" stroke-linecap="round" stroke-width=".1" paint-order="fill markers stroke"/>
+     <path d="m90.866 195.27c-17.084 8.701-30.24-23.654-26.554-35.083l30.917-16.121c.715 4.745 1.227 8.479-.626 13.332l-.325 14.862c1.093 5.812 3.932 18.764-3.412 23.01z" fill="url(#linearGradient5616)" stroke="#a80" stroke-linecap="round" stroke-width=".15" paint-order="fill markers stroke"/>
+     <path d="m64.231 162.47v-26.225l20.72-11.166c5.153 5.341 9.323 12.675 10.694 21.317z" fill="url(#linearGradient5524)" stroke="#806600" stroke-width=".1" paint-order="fill markers stroke"/>
+     <g transform="matrix(1.2596 0 0 1.2596 -81.53 -24.79)" stroke="#a80">
+      <g transform="matrix(-2.9629 0 0 2.9629 40.85 -370.86)">
+       <g transform="matrix(.82353 0 0 .82353 295.32 210.15)" stroke-linecap="round">
+        <path d="m-392.47-45.571c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient6212)" stroke-width=".03" paint-order="fill markers stroke"/>
+        <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+       </g>
+       <g stroke-width=".05">
+        <path d="m-28.382 171.55c-.001.065-.665.087-1.387-.63-.383-.374-.74-.878-.997-1.51-.01-.024-.019-.047-.028-.071-.244-.621-.326-1.207-.207-1.732.295-1.25 1.141-.813 1.08-1.03.01.037-.75.228-.903 1.068-.094.484-.001 1.018.23 1.617.009.023.018.045.027.068.246.606.575 1.091.927 1.464.624.649 1.258.719 1.258.757z" fill="url(#linearGradient5295)" inkscape:original-d="m -28.381716,171.55398 c -1.790082,-0.0193 -3.861966,-4.32216 -1.538296,-4.97331" inkscape:path-effect="#path-effect5054" paint-order="fill markers stroke"/>
+        <path d="m-27.972 171.41c0 .05-.628.105-1.311-.579-.354-.348-.674-.812-.913-1.392-.013-.031-.025-.062-.037-.093-.234-.596-.32-1.148-.251-1.649.141-1.041.831-.975.798-1.05.015.034-.548.311-.622 1.071-.045.468.051.975.275 1.55.012.03.024.059.036.089.23.556.522 1.001.844 1.347.578.61 1.181.668 1.181.706z" fill="url(#linearGradient5297)" inkscape:original-d="m -27.97246,171.41366 c -1.739448,-0.0105 -3.451525,-4.0098 -1.713691,-4.76283" inkscape:path-effect="#path-effect5082" paint-order="fill markers stroke"/>
+        <path d="m-27.797 171.17c-.003.053-.587.067-1.159-.615-.277-.324-.518-.733-.7-1.23-.025-.068-.048-.136-.069-.204-.179-.556-.237-1.044-.169-1.485.127-.916.674-.65.652-.762.007.034-.418.202-.485.783-.041.414.031.857.205 1.398.021.065.044.13.068.195.175.478.392.868.641 1.187.476.598 1.019.693 1.016.732z" fill="url(#linearGradient5299)" inkscape:original-d="m -27.797064,171.16811 c -1.591682,-0.0967 -2.796651,-4.02319 -1.444752,-4.29512" inkscape:path-effect="#path-effect5088" paint-order="fill markers stroke"/>
+        <path d="m-27.657 170.86c-.011.098-.403-.022-.763-.496-.241-.299-.462-.68-.644-1.152-.002-.005-.004-.009-.005-.014-.18-.468-.268-.884-.258-1.273.002-.707.431-.808.435-.799.017.032-.27.272-.261.798.015.365.11.74.284 1.198 0 0 .005.013.005.013.177.459.371.821.582 1.125.324.439.628.564.624.6z" fill="url(#linearGradient5301)" inkscape:original-d="m -27.656748,170.86409 c -0.853724,-0.0963 -2.232423,-3.19165 -1.234276,-3.73385" inkscape:path-effect="#path-effect5094" paint-order="fill markers stroke"/>
+       </g>
+      </g>
+      <path d="m122.57 135.42c-1.282-3.688.44-7.397 3.888-11.084 2.047 1.779-.756 9.873-3.888 11.084" fill="#fff" stroke-width=".05" paint-order="fill markers stroke"/>
+     </g>
+     <path d="m141.1 150.14 18.368-7.647c2.968-1.236 4.995-1.83 4.964-7.303-.016-2.748-.096-5.293-.244-7.582-.383-5.918-3.124-7.303-6.987-10.435-8.49-6.884-25.977-20.653-25.977-20.653 2.368 2.648 4.983 5.321 7.088 7.524 1.486 2.09 2.903 4.355 2.747 10.624z" fill="#c3b442" stroke="#9c8838" stroke-width=".1" paint-order="fill markers stroke" sodipodi:nodetypes="csssscccc"/>
+    </g>
+    <path d="m130.89 96.181c.001-.001 1.678 1.571 4.376 4.316 1.388 1.412 2.722 2.986 4.346 5.053 1.191 1.542 1.378 3.477 1.578 5.596.081.822.082 1.619.1 2.459.033 1.476.05 2.954.064 4.513.01 1.108.017 2.23.022 3.372.014 3.139.011 6.245.003 9.07-.013 4.698-.046 9.138-.08 12.356-.018 1.684-.039 3.284-.057 4.405-.012.767-.03 1.526-.042 2.293-.003.232-.007.39-.015.529-.013.049-.014.113-.038.155h-.003c0-.019.003-.033-.004-.051-.014-.036-.034.007-.039.005-.023-.006.011-.025.012-.023.004.007.012.033.031.05.012-.027-.013-.069-.027-.136-.007-.1-.023-.333-.035-.527-.037-.625-.047-1.2-.067-2.296-.022-1.21-.04-2.633-.055-4.405-.03-3.457-.046-7.42-.061-12.356-.043-14.218.015 5.151-.028-9.067-.005-1.143-.011-2.262-.018-3.37-.01-1.562-.022-3.03-.048-4.507-.015-.847-.01-1.631-.084-2.423-.208-2.128-.335-3.971-1.44-5.384-1.603-2.089-2.887-3.655-4.24-5.095-2.633-2.801-4.195-4.491-4.151-4.531z" fill="#fff" inkscape:original-d="m 130.89063,96.181229 c 4.03633,4.381151 4.48075,4.248751 8.55641,9.497391 1.2891,1.66011 1.28749,3.19081 1.50871,5.49032 0.30122,3.13112 0.1261,35.76054 0.18486,38.44533 0.0242,1.10674 9.6e-4,0.48085 -0.0407,0.63737" inkscape:path-effect="#path-effect5476" paint-order="fill markers stroke" sodipodi:nodetypes="csssc"/>
+    <path d="m131.17 96.47 26.934 21.3c2.977 2.343 5.894 4.6 6.116 9.216l.385 8c.147 3.045-.845 5.715-3.144 6.634l9.005-4.725c1.751-.919 2.52-3.304 2.498-6.729l-.04-6.366c-.047-7.349-2.922-7.512-6.787-10.641l-27.624-22.364" fill="url(#linearGradient6559)" stroke="#806600" stroke-linejoin="round" stroke-width=".1" paint-order="fill markers stroke" sodipodi:nodetypes="ccsscssssc"/>
+    <path d="m130.93 96.282c-.056.074 6.478 5.149 15.488 12.521 2.484 2.032 5.659 4.664 8.534 6.943 1.679 1.331 3.309 2.588 4.937 3.788 2.545 1.883 4.108 4.652 4.196 7.327.132 3.769.226 7.538.29 9.994.038 1.496-.536 2.632-1.164 3.31-.898.976-1.602 1.386-1.58 1.403s.697-.29 1.695-1.294c.675-.683 1.315-1.858 1.303-3.424-.017-2.558-.06-6.128-.165-10.002-.082-2.81-1.679-5.705-4.322-7.658-1.621-1.202-3.244-2.457-4.921-3.786-3.032-2.404-5.89-4.767-8.548-6.918-9.052-7.325-15.63-12.359-15.745-12.205z" fill="#fff" inkscape:original-d="m 130.93181,96.282238 c 9.85666,7.365782 22.09222,17.908952 29.08679,23.080322 2.22996,1.64871 4.16937,4.58912 4.25939,7.49225 0.10932,3.52588 0.18501,7.38457 0.22744,9.99779 0.0534,3.28832 -2.38519,4.11813 -2.87092,4.71531" inkscape:path-effect="#path-effect5472" paint-order="fill markers stroke" sodipodi:nodetypes="csssc"/>
+    <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+     <g transform="matrix(1.1605 0 0 1.1605 611.5 188.02)">
+      <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+      <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 -8.46 13.93)" stroke-width=".1">
+      <path d="m88.035 128.1 9.2-5.154c6.577-2.416 11.895 11.044 8.339 13.017l-9.993 5.977" fill="url(#linearGradient6731)" paint-order="fill markers stroke"/>
+      <path d="m95.342 142.06c-5.94 2.729-11.808-11.393-7.129-14.052 6.299-2.575 12.065 11.599 7.129 14.052z" fill="#bd7d34" paint-order="fill markers stroke"/>
+      <path d="m94.83 141.04c-4.985 2.291-9.911-9.563-5.984-11.794 5.287-2.161 10.126 9.735 5.984 11.794z" fill="url(#linearGradient6723)" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 -8.42 47.87)" stroke-width=".1">
+      <path d="m88.035 128.1 9.2-5.154c6.577-2.416 11.895 11.044 8.339 13.017l-9.993 5.977" fill="url(#linearGradient6731)" paint-order="fill markers stroke"/>
+      <path d="m95.342 142.06c-5.94 2.729-11.808-11.393-7.129-14.052 6.299-2.575 12.065 11.599 7.129 14.052z" fill="#bd7d34" paint-order="fill markers stroke"/>
+      <path d="m94.83 141.04c-4.985 2.291-9.911-9.563-5.984-11.794 5.287-2.161 10.126 9.735 5.984 11.794z" fill="url(#linearGradient6723)" paint-order="fill markers stroke"/>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 383.8 245.23)" stroke-linecap="round" stroke-linejoin="round">
+     <g stroke="#800080">
+      <g transform="matrix(.68312 .13375 -.16724 .80165 -154.6 -210.14)" fill="#a250a2">
+       <path d="m-253.72 230.36c.278-1.037.514-1.53 1.454-2.85-1.224-1.633-3.29-6.287-4.605-10.086l1.619-1.331c3.556 2.444 5.986 4.706 8.03 7.193" stroke-width=".13" inkscape:tile-cx="-221.90479" inkscape:tile-cy="245.44822" inkscape:tile-h="13.329873" inkscape:tile-w="18.24354" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+       <g stroke-width=".2">
+        <path d="m-247.22 223.29c1.018-.186 1.523-.231 3.274-.332-.19-1.755.729-5.786 1.836-8.737l2.49.5c2.029 3.899 3.338 6.962 3.503 9.674" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-236.12 224.4c1.172.523 1.785.889 3.597 2.217 1.041-.897 4.925-2.506 7.383-3.176l2.196 2.097c-.449 3.53-1.09 6.093-2.663 7.628" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-225.6 233.16c.849 1.137 1.234 1.78 2.214 3.81 1.603.108 4.996.861 8.667 3.013l1.4 2.245c-2.681 1.644-4.691 3.664-7.277 3.26" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-220.6 245.49c.129 1.219.106 1.839-.205 3.62 1.548 1.267 4.808 5.435 7.169 8.983l-.856 2.06c-3.714-1.217-6.584-2.458-8.954-4.544" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-223.45 255.61c-.651.73-1.072 1.037-2.528 1.736.752 1.803 1.375 6.381 1.485 9.972l-2.186.442c-2.973-3.375-5.078-6.138-6.136-8.975" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-232.81 258.78c-1.127-.1-1.748-.25-3.668-.96-.396 1.495-2.702 4.341-4.893 6.295l-2.493-1.382c-.841-3.953-1.196-6.947-.447-9.206" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-244.31 253.53c-1.075-.883-1.606-1.42-3.092-3.207-1.358.488-5.515.27-8.982-.327l-1.633-2.56c1.685-2.681 3.236-3.971 5.346-5.302" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+       </g>
+       <path d="m-252.57 242.31c-.52-1.254-.713-1.925-1.069-3.953-1.686-.748-5.747-3.927-8.868-6.797l-.01-2.54c3.422-.155 6.168.046 8.799 1.347" stroke-width=".13" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      </g>
+      <path d="m-353.42-61.832s24.85-13.009 24.85-13.009c.923.634 1.392 1.71 2.016 2.499l-24.78 12.768c-.566-.895-1.276-1.633-2.087-2.258" fill="url(#linearGradient5109)" stroke-width=".1" paint-order="fill markers stroke"/>
+      <path d="m-354.2-70.056 24.828-12.901c.408 2.437 1.146 4.143.798 8.116l-24.828 12.901c.35-2.982-.251-5.489-.798-8.116z" fill="url(#linearGradient5111)" stroke-width=".15" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke-width=".1">
+      <path d="m-355.81-70.79 24.828-12.901 1.617.734-24.828 12.901z" fill="url(#linearGradient5115)" stroke="#800080" paint-order="fill markers stroke"/>
+      <path d="m-340.28-83.945-24.828 12.901c1.33 1.668 2.619 3.076 4.282 6.84l2.481-.691c.622-2.041 1.6-4.186 2.527-5.895l19.119-9.894c-.461-.999-2.872-2.569-3.581-3.262z" fill="url(#linearGradient5117)" stroke="#800080" paint-order="fill markers stroke"/>
+      <path d="m-344.61-59.157 24.828-12.901c-.476-1.076-.776-1.361-1.149-1.975l-24.828 12.901z" fill="url(#linearGradient5119)" stroke="url(#linearGradient6516)" paint-order="fill markers stroke"/>
+      <g stroke="#800080">
+       <path d="m-347.71-53.398 24.828-12.901c2.68-4.114 2.371-4.046 3.095-5.759l-24.828 12.901c-.786 2.068-1.356 4.267-3.095 5.759" fill="url(#linearGradient5121)" paint-order="fill markers stroke"/>
+       <path d="m-322-62.949-24.828 12.901c-.227-1.479-.551-2.418-.875-3.35l24.828-12.901c.308.877.629 1.567.875 3.35z" fill="url(#linearGradient6636)" paint-order="fill markers stroke"/>
+       <path d="m-341.46-46.44 24.549-13.087c-1.878-1.577-2.898-2.449-5.09-3.422l-24.828 12.901c1.73.833 2.893 1.103 5.368 3.608z" fill="url(#linearGradient5125)" paint-order="fill markers stroke"/>
+      </g>
+      <path d="m-340.87-44.505 24.75-13.142c-.242-.796-.529-1.37-.829-1.88l-24.556 13.046.635 1.977" fill="url(#linearGradient5127)" stroke="#7a507a" paint-order="fill markers stroke"/>
+      <g stroke="#800080">
+       <path d="m-347.1-39.973 24.828-12.901-.352-1.5-18.246 9.87c-2.953 1.409-4.191 2.049-5.485 1.658-.175.99-.34 1.984-.745 2.874" fill="url(#linearGradient5129)" paint-order="fill markers stroke"/>
+       <path d="m-343.7-31.813 24.828-12.901c-.858-2.496-1.677-4.966-3.395-8.16l-24.828 12.901c1.274 2.455 2.429 5.13 3.395 8.16z" fill="url(#linearGradient5131)" paint-order="fill markers stroke"/>
+       <path d="m-344.63-30.276 24.828-12.901.929-1.537-24.828 12.901z" fill="url(#linearGradient5133)" paint-order="fill markers stroke"/>
+       <path d="m-352.66-25.87c.293-2.757.822-5.595.653-8.193l2.058-.975c1.357 1.668 3.471 3.634 5.316 4.762l24.828-12.901-1.722 1.194z" fill="url(#linearGradient5135)" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+     <path d="m-363.89-39.572-3.763-10.102 1.213-9.728 5.622-4.802 7.4 2.371 5.715 8.434 1.357 10.551-3.637 7.731-6.929 1.293z" fill="#a250a2" stroke="#a250a2" stroke-width=".21" paint-order="fill markers stroke"/>
+     <path d="m-354.07-42.836c-5.094 2.196-9.854-9.477-5.833-11.625 5.397-2.066 10.069 9.648 5.833 11.625z" fill="url(#linearGradient5137)" stroke="#800080" stroke-width=".1" paint-order="fill markers stroke"/>
+     <path d="m-372.23-61.658 6.381-3.288c.134.653.573 2.629.875 3.455-.661.675-1.159 1.285-1.47 2.09-1.6-1.494-3.675-1.942-5.786-2.256" fill="url(#linearGradient5139)" opacity=".95" stroke="#800080" stroke-width=".1" paint-order="fill markers stroke"/>
+     <path d="m-350.59-34.562c.155-.094.365-.248.526-.387.059-.051.111-.092.114-.09s.049.069.101.148l.095.144-.472.131c-.26.072-.479.132-.487.134-.008.001.047-.035.123-.081z" opacity=".95" paint-order="fill markers stroke"/>
+     <path d="m-357.99-65.869c-.071.283-.469 1.563-.537 1.837-.66-.127-1.524-.168-2.292-.172z" fill="#333" opacity=".95" stroke="#800080" stroke-width=".04" paint-order="fill markers stroke"/>
+     <path d="m-351.34-59.574 24.716-12.673c1.797-.916 3.949-1.248 5.686-1.786l-24.828 12.901c-2.392.334-3.807 1.008-5.574 1.558z" fill="url(#linearGradient6732)" stroke="#791e79" stroke-width=".1" paint-order="fill markers stroke"/>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 -13.5 95.1)">
+     <g transform="matrix(.67372 0 0 .81792 216.44 -125.82)" fill="#75aae6" stroke-width=".13">
+      <path d="m-253.72 230.36c.278-1.037.514-1.53 1.454-2.85-1.224-1.633-3.29-6.287-4.605-10.086l1.619-1.331c3.556 2.444 5.986 4.706 8.03 7.193" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13" inkscape:tile-cx="-221.90479" inkscape:tile-cy="245.44822" inkscape:tile-h="13.329873" inkscape:tile-w="18.24354" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      <path d="m-247.22 223.29c1.018-.186 1.523-.231 3.274-.332-.19-1.755.729-5.786 1.836-8.737l2.49.5c2.029 3.899 3.338 6.962 3.503 9.674" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      <path d="m-236.12 224.4c1.172.523 1.785.889 3.597 2.217.894-1.169 4.31-2.632 7.383-3.176l2.196 2.097c-.449 3.53-1.09 6.093-2.663 7.628" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      <path d="m-225.6 233.16c.849 1.137 1.234 1.78 2.214 3.81 1.603.108 5.827 1.639 9.498 3.791l.874 2.713c-2.681 1.644-4.997 2.418-7.582 2.013" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      <path d="m-220.6 245.49c.129 1.219.106 1.839-.205 3.62 1.548 1.267 4.808 5.435 7.169 8.983l-.856 2.06c-3.714-1.217-6.584-2.458-8.954-4.544" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      <g stroke="#00f" stroke-linecap="round" stroke-linejoin="round">
+       <g stroke-width=".2">
+        <path d="m-223.45 255.61c-.651.73-1.072 1.037-2.528 1.736.752 1.803 1.375 6.381 1.485 9.972l-2.186.442c-2.973-3.375-5.078-6.138-6.136-8.975" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-232.81 258.78c-1.127-.1-1.748-.25-3.668-.96-.396 1.495-2.702 4.341-4.893 6.295l-2.493-1.382c-.841-3.953-1.196-6.947-.447-9.206" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+        <path d="m-244.31 253.53c-1.075-.883-1.606-1.42-3.092-3.207-1.358.488-5.515.27-8.982-.327l-1.633-2.56c1.685-2.681 3.245-4.504 5.451-5.13" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+       </g>
+       <path d="m-252.57 242.31c-.52-1.254-.713-1.925-1.069-3.953-1.686-.748-5.747-3.927-8.868-6.797l-.01-2.54c3.422-.155 6.168.046 8.799 1.347" stroke-width=".13" inkscape:tile-x0="-231.5611" inkscape:tile-y0="208.31457" inkscape:transform-center-x="15.202265" inkscape:transform-center-y="-19.729504" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+     <g stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#00f" stroke-width=".1">
+       <path d="m57.368 57.722s23.516-12.506 23.516-12.506c1 .444 1.676 1.159 2.423 1.813l-18.585 9.884c-2.264.674-4.045 1.504-4.932 2.623-.714-.769-1.532-1.356-2.423-1.813" fill="url(#linearGradient4805)" paint-order="fill markers stroke"/>
+       <path d="m55.008 49.809 23.516-12.506c.869 2.31 1.904 3.841 2.36 7.803l-23.516 12.506c-.258-2.99-1.323-5.333-2.36-7.803z" fill="url(#linearGradient4807)" paint-order="fill markers stroke"/>
+       <path d="m53.331 49.4 23.516-12.506 1.677.409-23.516 12.506z" fill="url(#linearGradient4811)" paint-order="fill markers stroke"/>
+       <path d="m67.995 38.428-23.516 12.506c1.59 1.38 3.09 2.513 5.41 5.883l2.214-1.154c.186-2.12.688-4.41 1.229-6.264l16.916-8.997c-.635-.89-1.443-1.433-2.252-1.975z" fill="url(#linearGradient4813)" paint-order="fill markers stroke"/>
+       <path d="m66.245 58.653 23.516-12.506-1.479-1.715-23.516 12.506z" fill="url(#linearGradient4815)" paint-order="fill markers stroke"/>
+       <path d="m64.451 64.893 23.516-12.506c1.726-4.547 1.446-4.421 1.794-6.239l-23.516 12.506c-.336 2.178-.441 4.443-1.794 6.239" fill="url(#linearGradient4817)" paint-order="fill markers stroke"/>
+       <path d="m89.459 55.502-23.516 12.506c-.507-1.406-1-2.264-1.492-3.116l23.516-12.506c.465.8.906 1.415 1.492 3.116z" fill="url(#linearGradient4819)" paint-order="fill markers stroke"/>
+       <path d="m72.342 71.109 23.516-12.506c-2.091-1.186-4.13-2.567-6.399-3.1l-23.516 12.506c1.804.485 3.559 1.119 6.399 3.1z" fill="url(#linearGradient4821)" paint-order="fill markers stroke"/>
+       <path d="m72.931 73.328 23.516-12.506-.589-2.219-23.516 12.506z" fill="url(#linearGradient4823)" paint-order="fill markers stroke"/>
+       <path d="m67.684 77.935 23.516-12.506.172-1.858-18.442 9.757c-2.519 1.948-3.805 1.782-5.108 1.647.03 1.004.07 2.011-.138 2.961" fill="url(#linearGradient4825)" paint-order="fill markers stroke"/>
+       <path d="m72.514 85.283 23.516-12.506c-1.306-2.282-2.571-4.546-4.83-7.348l-23.516 12.506c1.692 2.162 3.316 4.563 4.83 7.348z" fill="url(#linearGradient4827)" paint-order="fill markers stroke"/>
+       <path d="m71.937 86.968 23.516-12.506.577-1.685-23.516 12.506z" fill="url(#linearGradient4829)" paint-order="fill markers stroke"/>
+       <path d="m65.202 92.828c-.267-2.759-.327-5.642-1.001-8.157l2.098-1.09c1.615 1.374 3.666 2.635 5.638 3.387l16.562-8.829c.113.609.196 1.307.22 2.183z" fill="url(#linearGradient4831)" paint-order="fill markers stroke"/>
+      </g>
+      <path d="m51.846 81.552s-5.562-9.18-5.562-9.18l-.773-9.768 4.378-5.786 7.48.904 7.083 7.171 3.371 10.082-1.918 8.276-6.31 2.598z" fill="#75aae6" stroke="#75aae6" stroke-width=".1" paint-order="fill markers stroke"/>
+      <g stroke="#00f">
+       <path d="m59.763 76.974c-4.791 2.44-10.082-8.972-6.325-11.312 5.091-2.325 10.3 9.132 6.325 11.312z" fill="url(#linearGradient4833)" stroke-width=".1" paint-order="fill markers stroke"/>
+       <path d="m39.582 61.502 5.989-3.179c.257.614.471 1.198.919 1.95-.493.789-.844 1.482-.98 2.331-1.811-1.158-3.866-1.198-5.928-1.101" fill="url(#linearGradient4835)" opacity=".95" stroke-width=".1" paint-order="fill markers stroke"/>
+       <path d="m65.957 83.319c.089.086.153.154.244.249-.285.148-.571.297-.857.443.209-.211.444-.479.613-.693z" opacity=".95" stroke-width=".05" paint-order="fill markers stroke"/>
+       <path d="m52.102 55.664-.008.474c.018.211.018.394 0 .408-.651.002-1.478.128-2.206.272z" fill="#333" opacity=".95" stroke-width=".04" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g stroke-linejoin="round">
+     <g transform="matrix(.96163 0 0 .96163 -65.01 43.39)" stroke="#000" stroke-linecap="round" stroke-width=".1">
+      <path d="m88.035 128.1 9.2-5.154c6.577-2.416 11.895 11.044 8.339 13.017l-9.993 5.977" fill="url(#linearGradient6731)" paint-order="fill markers stroke"/>
+      <path d="m95.342 142.06c-5.94 2.729-11.808-11.393-7.129-14.052 6.299-2.575 12.065 11.599 7.129 14.052z" fill="#bd7d34" paint-order="fill markers stroke"/>
+      <path d="m94.83 141.04c-4.985 2.291-9.911-9.563-5.984-11.794 5.287-2.161 10.126 9.735 5.984 11.794z" fill="url(#linearGradient6723)" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 -64.97 78.05)" stroke="#000" stroke-linecap="round" stroke-width=".1">
+      <path d="m88.035 128.1 9.2-5.154c6.577-2.416 11.895 11.044 8.339 13.017l-9.993 5.977" fill="url(#linearGradient6731)" paint-order="fill markers stroke"/>
+      <path d="m95.342 142.06c-5.94 2.729-11.808-11.393-7.129-14.052 6.299-2.575 12.065 11.599 7.129 14.052z" fill="#bd7d34" paint-order="fill markers stroke"/>
+      <path d="m94.83 141.04c-4.985 2.291-9.911-9.563-5.984-11.794 5.287-2.161 10.126 9.735 5.984 11.794z" fill="url(#linearGradient6723)" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 .95 35.09)" stroke="#a80">
+      <g transform="matrix(-2.9629 0 0 2.9629 40.85 -370.86)">
+       <g transform="matrix(.82353 0 0 .82353 295.32 210.15)" stroke-linecap="round">
+        <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+        <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+       </g>
+       <g stroke-width=".05">
+        <path d="m-28.382 171.55c-.001.065-.665.087-1.387-.63-.383-.374-.74-.878-.997-1.51-.01-.024-.019-.047-.028-.071-.244-.621-.326-1.207-.207-1.732.295-1.25 1.141-.813 1.08-1.03.01.037-.75.228-.903 1.068-.094.484-.001 1.018.23 1.617.009.023.018.045.027.068.246.606.575 1.091.927 1.464.624.649 1.258.719 1.258.757z" fill="url(#linearGradient5295)" inkscape:original-d="m -28.381716,171.55398 c -1.790082,-0.0193 -3.861966,-4.32216 -1.538296,-4.97331" inkscape:path-effect="#path-effect5054" paint-order="fill markers stroke"/>
+        <path d="m-27.972 171.41c0 .05-.628.105-1.311-.579-.354-.348-.674-.812-.913-1.392-.013-.031-.025-.062-.037-.093-.234-.596-.32-1.148-.251-1.649.141-1.041.831-.975.798-1.05.015.034-.548.311-.622 1.071-.045.468.051.975.275 1.55.012.03.024.059.036.089.23.556.522 1.001.844 1.347.578.61 1.181.668 1.181.706z" fill="url(#linearGradient5297)" inkscape:original-d="m -27.97246,171.41366 c -1.739448,-0.0105 -3.451525,-4.0098 -1.713691,-4.76283" inkscape:path-effect="#path-effect5082" paint-order="fill markers stroke"/>
+        <path d="m-27.797 171.17c-.003.053-.587.067-1.159-.615-.277-.324-.518-.733-.7-1.23-.025-.068-.048-.136-.069-.204-.179-.556-.237-1.044-.169-1.485.127-.916.674-.65.652-.762.007.034-.418.202-.485.783-.041.414.031.857.205 1.398.021.065.044.13.068.195.175.478.392.868.641 1.187.476.598 1.019.693 1.016.732z" fill="url(#linearGradient5299)" inkscape:original-d="m -27.797064,171.16811 c -1.591682,-0.0967 -2.796651,-4.02319 -1.444752,-4.29512" inkscape:path-effect="#path-effect5088" paint-order="fill markers stroke"/>
+        <path d="m-27.657 170.86c-.011.098-.403-.022-.763-.496-.241-.299-.462-.68-.644-1.152-.002-.005-.004-.009-.005-.014-.18-.468-.268-.884-.258-1.273.002-.707.431-.808.435-.799.017.032-.27.272-.261.798.015.365.11.74.284 1.198 0 0 .005.013.005.013.177.459.371.821.582 1.125.324.439.628.564.624.6z" fill="url(#linearGradient5301)" inkscape:original-d="m -27.656748,170.86409 c -0.853724,-0.0963 -2.232423,-3.19165 -1.234276,-3.73385" inkscape:path-effect="#path-effect5094" paint-order="fill markers stroke"/>
+       </g>
+      </g>
+      <path d="m122.57 135.42c-1.282-3.688.44-7.397 3.888-11.084 2.047 1.779-.756 9.873-3.888 11.084" fill="url(#linearGradient5435)" stroke-width=".05" paint-order="fill markers stroke"/>
+     </g>
+     <g transform="matrix(.96163 0 0 .96163 322.44 -27.09)" fill="none" stroke-linecap="round" stroke-width="3.22">
+      <path d="m-294.67 234.47.108-32.086c-3.555-16.754-31.408-29.56-38.253-17.625v29.429" stroke="url(#linearGradient6242)" paint-order="fill markers stroke"/>
+      <path d="m-332.81 214.17v32.014c3.555 16.754 31.3 29.631 38.146 17.697v-29.429" stroke="#803300" stroke-opacity=".95" paint-order="fill markers stroke"/>
+      <g stroke="#d45500">
+       <path d="m-334.93 215.76v32.014c3.555 16.754 31.3 29.631 38.146 17.697v-29.429" paint-order="fill markers stroke"/>
+       <path d="m-296.78 236.05.108-32.086c-3.555-16.754-31.408-29.56-38.253-17.625v29.429" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 101.65 -22.72)">
+     <path d="m-125.06 193.51c-2.733 1.256-5.433-5.242-3.28-6.465 2.898-1.185 5.551 5.336 3.28 6.465z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".23" paint-order="fill markers stroke"/>
+     <path d="m-89.891 247.73.134-39.834c-4.414-20.799-38.992-36.698-47.49-21.881v36.536" fill="url(#linearGradient5467)" paint-order="fill markers stroke"/>
+     <path d="m-137.25 222.53v39.745c4.414 20.799 38.858 36.787 47.357 21.97v-36.536" fill="url(#linearGradient5483)" paint-order="fill markers stroke"/>
+     <path d="m-94.314 288.49c.052-.103 9.746-5.161 9.875-5.187 2.061-1.694 3.081-2.894 3.845-3.973l-9.297 4.927c-1.956 3.009-3.11 3.291-4.423 4.233z" fill="#6a6321" opacity=".95" paint-order="fill markers stroke"/>
+     <path d="m-90.537 285.2c.547-.366.947-.794 1.377-1.284l.276-75.426-1.006-.479v75.909c-.156.437-.411.857-.646 1.28z" fill="url(#linearGradient5500)" paint-order="fill markers stroke"/>
+     <path d="m-88.8 207.64 8.118-4.557v76.281l-8.475 4.578z" fill="url(#linearGradient7263)" paint-order="fill markers stroke"/>
+     <path d="m-133.44 181.95c7.938-5.568 35.832 1.28 44.635 25.691l8.118-4.557c-11.933-23.834-34.964-31.344-44.694-25.759z" fill="url(#linearGradient7241)" paint-order="fill markers stroke" sodipodi:nodetypes="cccsc"/>
+     <path d="m-88.422 207.2c-8.54-24.254-33.895-30.85-43.545-25.739" fill="none" opacity=".95" paint-order="fill markers stroke"/>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(299.19 318.01)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(299.19 294.84)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(299.19 271.66)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(262.46 251.95)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(262.46 275.13)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(262.21 298.35)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(267.61 238.04)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(293.78 252.13)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(267.61 317.7)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+      <g transform="translate(293.78 331.8)">
+       <path d="m-392.47-46.094c-3.171 1.615-6.673-5.938-4.186-7.487 3.37-1.539 6.817 6.044 4.186 7.487z" fill="url(#linearGradient7195)" stroke-width=".02" paint-order="fill markers stroke"/>
+       <path d="m-392.69-46.992c-2.445 1.245-5.145-4.579-3.228-5.773 2.598-1.187 5.256 4.66 3.228 5.773z" fill="url(#linearGradient7203)" stroke-width=".01" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <path d="m-9.92 152.11c11.081 5.549 20.527 10.126 25.137 25.184l.746-.56c-3.844-9.779-11.041-19.712-25.883-24.624z" fill="#fff" paint-order="fill markers stroke"/>
+    <g transform="matrix(.96163 0 0 .96163 124.86 114.52)">
+     <path id="path5727" d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".05" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+     <g stroke-width=".05">
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 119.85 128.04)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 119.98 150.4)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 119.85 172.62)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 125.39 191.29)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 150.39 204.58)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 155.53 191.62)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 155.13 169.59)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 155.46 147.16)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g transform="matrix(.96163 0 0 .96163 150.32 128.37)">
+     <g stroke-width=".05">
+      <path d="m-153.85 49.278c.14.017.234.144.321.025 1.136-1.566-.518-4.218-2.112-3.741-.107.032-.17.106-.149.182" fill="url(#linearGradient5581)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-31.165053" inkscape:tile-cy="171.97196" inkscape:tile-h="4.1020977" inkscape:tile-w="2.9264591" inkscape:tile-x0="-32.628309" inkscape:tile-y0="169.92114" inkscape:transform-center-x="5.6530858" inkscape:transform-center-y="13.896566" paint-order="fill markers stroke" sodipodi:nodetypes="cssc"/>
+      <use transform="translate(-.53 .29)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.1798455" inkscape:transform-center-y="14.18371" xlink:href="#path5727"/>
+      <use transform="translate(-1.05 .57)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="6.7066055" inkscape:transform-center-y="14.47086" xlink:href="#path5727"/>
+      <use transform="translate(-1.58 .86)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.2333755" inkscape:transform-center-y="14.75801" xlink:href="#path5727"/>
+      <use transform="translate(-2.11 1.15)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="7.7601355" inkscape:transform-center-y="15.04515" xlink:href="#path5727"/>
+      <use transform="translate(-2.63 1.44)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.2868955" inkscape:transform-center-y="15.3323" xlink:href="#path5727"/>
+      <use transform="translate(-3.16 1.72)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="8.8136555" inkscape:transform-center-y="15.61945" xlink:href="#path5727"/>
+      <use transform="translate(-3.69 2.01)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.3404255" inkscape:transform-center-y="15.90659" xlink:href="#path5727"/>
+      <use transform="translate(-4.21 2.3)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="9.8671855" inkscape:transform-center-y="16.19374" xlink:href="#path5727"/>
+      <use transform="translate(-4.74 2.58)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.393945" inkscape:transform-center-y="16.48089" xlink:href="#path5727"/>
+      <use transform="translate(-5.27 2.87)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="10.920715" inkscape:transform-center-y="16.76803" xlink:href="#path5727"/>
+      <use transform="translate(-5.79 3.16)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.447475" inkscape:transform-center-y="17.05518" xlink:href="#path5727"/>
+      <use transform="translate(-6.32 3.45)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="11.974235" inkscape:transform-center-y="17.34233" xlink:href="#path5727"/>
+      <use transform="translate(-6.85 3.73)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="12.500995" inkscape:transform-center-y="17.62947" xlink:href="#path5727"/>
+      <use transform="translate(-7.37 4.02)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.027765" inkscape:transform-center-y="17.91662" xlink:href="#path5727"/>
+      <use transform="translate(-7.9 4.31)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="13.554525" inkscape:transform-center-y="18.20377" xlink:href="#path5727"/>
+      <use transform="translate(-8.43 4.59)" width="100%" height="100%" inkscape:tiled-clone-of="#path5727" inkscape:transform-center-x="14.081285" inkscape:transform-center-y="18.49091" xlink:href="#path5727"/>
+      <path d="m-167.52 57.132c.081-.044 4.685-2.616 4.775-2.684 1.918-1.461-.554-4.93-2.301-3.877l-4.629 2.495" fill="url(#linearGradient6963)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:tile-cx="-42.437948" inkscape:tile-cy="178.22835" inkscape:tile-h="6.8595312" inkscape:tile-w="7.865828" inkscape:tile-x0="-46.371093" inkscape:tile-y0="174.79808" inkscape:transform-center-x="17.04112" inkscape:transform-center-y="20.220819" paint-order="fill markers stroke" sodipodi:nodetypes="cscc"/>
+      <path d="m-174.27 54.11 3.341-1.928c2.767-1.436 6.027 5.002 3.643 6.446l-3.657 2.038" fill="url(#linearGradient6971)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" inkscape:transform-center-x="21.538812" inkscape:transform-center-y="22.788138" paint-order="fill markers stroke"/>
+     </g>
+     <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m-170.5 56.318a3.676 2.366 63.099 0 1-0.447 4.349 3.676 2.366 63.099 0 1-3.773-2.208 3.676 2.366 63.099 0 1 0.447-4.349 3.676 2.366 63.099 0 1 3.773 2.208z" fill="url(#linearGradient6987)" stroke-width=".1" inkscape:transform-center-x="23.780339" inkscape:transform-center-y="23.855768" paint-order="fill markers stroke"/>
+      <g stroke-width=".05">
+       <path d="m-173.51 58.953 2.528-1.36" fill="url(#linearGradient7027)" inkscape:transform-center-x="23.418042" inkscape:transform-center-y="24.739857" paint-order="fill markers stroke"/>
+       <path d="m-174.6 56.902 2.179-1.144" fill="url(#linearGradient7019)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.797388" paint-order="fill markers stroke"/>
+       <path d="m-170.74 57.926-.84 1.539-1.929-.512-1.089-2.051.84-1.539 1.929.512z" fill="url(#linearGradient7011)" inkscape:transform-center-x="23.842357" inkscape:transform-center-y="23.881206" paint-order="fill markers stroke"/>
+       <path d="m-170.94 57.58.198.345-.84 1.539-1.929-.512" fill="url(#linearGradient7003)" inkscape:transform-center-x="23.297832" inkscape:transform-center-y="24.995778" paint-order="fill markers stroke"/>
+       <path d="m-172.37 55.716-1.382-.352-.84 1.539" fill="url(#linearGradient7029)" inkscape:transform-center-x="24.681522" inkscape:transform-center-y="22.600006" paint-order="fill markers stroke"/>
+      </g>
+     </g>
+    </g>
+    <g stroke-linejoin="round">
+     <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-width=".3">
+      <path d="m165.24 106.45 8.536 1.552" paint-order="fill markers stroke"/>
+      <path d="m161.58 78.177 6.402 11.833" paint-order="fill markers stroke"/>
+      <path d="m86.869 178.9 48.385 32.299" paint-order="fill markers stroke"/>
+      <path d="m86.215 145.11 48.845 65.606" paint-order="fill markers stroke"/>
+      <path d="m66.015 207.71 5.432 15.519" paint-order="fill markers stroke"/>
+      <path d="m29.245 114.21 18.077 21.633" paint-order="fill markers stroke"/>
+      <path d="m21.592 220.9 14.646 20.078" paint-order="fill markers stroke"/>
+      <path d="m9.37 147.18-19.011-9.311" paint-order="fill markers stroke"/>
+     </g>
+     <path d="m94.181 88.133-26.803 8.216c-4.385 1.344-3.495 8.196-3.495 8.196" fill="#c3b442" stroke="#806600" stroke-width=".1" paint-order="fill markers stroke" sodipodi:nodetypes="csc"/>
+     <path d="m108.65 80.428-24.711 7.211-17.53 9.089 27.259-8.054" fill="#938a2d" stroke="#806600" stroke-width=".1" paint-order="fill markers stroke"/>
+     <g fill="#fff" stroke-linecap="round">
+      <path d="m103.14 95.586-15.363-17.558" stroke="#000" stroke-width=".3" paint-order="fill markers stroke"/>
+      <path d="m66.354 96.746c-.028-.097 6.255-2.018 14.025-4.287s14.099-4.031 14.128-3.934c.028.097-6.255 2.018-14.025 4.287s-14.099 4.031-14.128 3.934z" stroke="#806600" stroke-width=".1" inkscape:original-d="M 66.354468,96.746326 94.507029,88.52607" inkscape:path-effect="#path-effect6567" paint-order="fill markers stroke"/>
+      <path d="m160.04 133.66 12.415 13.676" stroke="#000" stroke-width=".3" paint-order="fill markers stroke"/>
+      <path d="m41.854 93.255 35.051 41.177" stroke="#000" stroke-width=".3" paint-order="fill markers stroke"/>
+      <path d="m151.56 187.73-27.035-23.373" stroke="#000" stroke-width=".3" paint-order="fill markers stroke"/>
+     </g>
+    </g>
+   </g>
+   <g transform="translate(89.73 -42.82)" font-family="Liberation Sans,Arial" stroke-linecap="round" stroke-linejoin="round" text-anchor="middle" inkscape:label="Layer 1">
+    <g fill="#00000b" font-size="9.616" stroke-width=".096">
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6163-ru" x="82.43" y="232.04" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6161-ru" x="82.43" y="232.04" line-height="8.17389393px" sodipodi:role="line">Ведомая</tspan><tspan id="tspan6167-ru" x="82.43" y="240.21" line-height="8.17389393px" sodipodi:role="line">шестерня</tspan></text>
+      
+     <text x="82.43" y="232.04" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg19-ca" systemLanguage="ca"><tspan x="82.43" y="232.04" line-height="8.17389393px" sodipodi:role="line" id="trsvg1-ca">Engranatge</tspan><tspan x="82.43" y="240.21" line-height="8.17389393px" sodipodi:role="line" id="trsvg2-ca">de ralentí</tspan></text><text x="82.43" y="232.04" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg19-hi" systemLanguage="hi"><tspan x="82.43" y="232.04" line-height="8.17389393px" sodipodi:role="line" id="trsvg1-hi">आइडलर</tspan><tspan x="82.43" y="240.21" line-height="8.17389393px" sodipodi:role="line" id="trsvg2-hi">दंतचक्र</tspan></text><text x="82.43" y="232.04" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg19"><tspan x="82.43" y="232.04" line-height="8.17389393px" sodipodi:role="line" id="trsvg1">Idler</tspan><tspan x="82.43" y="240.21" line-height="8.17389393px" sodipodi:role="line" id="trsvg2">gear</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6175-ru" x="9.02" y="104.76" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6169-ru" x="9.02" y="104.76" line-height="8.17389393px" sodipodi:role="line">Ведущая</tspan><tspan id="tspan6171-ru" x="9.02" y="112.93" line-height="8.17389393px" sodipodi:role="line">шестерня</tspan></text>
+      
+     <text x="19.02" y="104.76" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg20-ca" systemLanguage="ca"><tspan x="19.02" y="104.76" line-height="8.17389393px" sodipodi:role="line" id="trsvg3-ca">Engranatge</tspan><tspan x="19.02" y="112.93" line-height="8.17389393px" sodipodi:role="line" id="trsvg4-ca">conductor</tspan></text><text x="19.02" y="104.76" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg20-hi" systemLanguage="hi"><tspan x="19.02" y="104.76" line-height="8.17389393px" sodipodi:role="line" id="trsvg3-hi">ड्राइव</tspan><tspan x="19.02" y="112.93" line-height="8.17389393px" sodipodi:role="line" id="trsvg4-hi">दंतचक्र</tspan></text><text x="19.02" y="104.76" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg20"><tspan x="19.02" y="104.76" line-height="8.17389393px" sodipodi:role="line" id="trsvg3">Drive</tspan><tspan x="19.02" y="112.93" line-height="8.17389393px" sodipodi:role="line" id="trsvg4">gear</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6179-ru" x="135.28" y="220.07" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6177-ru" x="135.28" y="220.07" sodipodi:role="line">Подшипниковые</tspan><tspan id="tspan6181-ru" x="135.28" y="228.24" sodipodi:role="line">втулки</tspan></text>
+      
+     <text x="135.28" y="220.07" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg21-ca" systemLanguage="ca"><tspan x="135.28" y="220.07" sodipodi:role="line" id="trsvg5-ca">Maniguets</tspan></text><text x="135.28" y="220.07" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg21-hi" systemLanguage="hi"><tspan x="135.28" y="220.07" sodipodi:role="line" id="trsvg5-hi">बुशिंग</tspan></text><text x="135.28" y="220.07" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg21"><tspan x="135.28" y="220.07" sodipodi:role="line" id="trsvg5">Bushings</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6185-ru" x="193.98" y="111.78" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6183-ru" x="193.98" y="111.78" stroke-width=".096" sodipodi:role="line">Сальник</tspan></text>
+      
+     <text x="193.98" y="111.78" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg22-ca" systemLanguage="ca"><tspan x="193.98" y="111.78" stroke-width=".096" sodipodi:role="line" id="trsvg6-ca">Juntura</tspan></text><text x="193.98" y="111.78" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg22-hi" systemLanguage="hi"><tspan x="193.98" y="111.78" stroke-width=".096" sodipodi:role="line" id="trsvg6-hi">मुहर</tspan></text><text x="193.98" y="111.78" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg22"><tspan x="193.98" y="111.78" stroke-width=".096" sodipodi:role="line" id="trsvg6">Seal</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6189-ru" x="162.46" y="75.45" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6191-ru" x="162.46" y="75.45" stroke-width=".096" sodipodi:role="line">Вал</tspan></text>
+      
+     <text x="162.46" y="75.45" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg23-ca" systemLanguage="ca"><tspan x="162.46" y="75.45" stroke-width=".096" sodipodi:role="line" id="trsvg7-ca">Arbre de transmissió</tspan></text><text x="162.46" y="75.45" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg23-hi" systemLanguage="hi"><tspan x="162.46" y="75.45" stroke-width=".096" sodipodi:role="line" id="trsvg7-hi">ड्राइव दस्ता</tspan></text><text x="162.46" y="75.45" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg23"><tspan x="162.46" y="75.45" stroke-width=".096" sodipodi:role="line" id="trsvg7">Drive shaft</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6195-ru" x="-8.28" y="128.55" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6193-ru" x="-8.28" y="128.55" sodipodi:role="line">Герметизирующая</tspan><tspan id="tspan6197-ru" x="-8.28" y="136.72" sodipodi:role="line">прокладка</tspan></text>
+      
+     <text x="-8.28" y="128.55" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg24-ca" systemLanguage="ca"><tspan x="-8.28" y="128.55" sodipodi:role="line" id="trsvg8-ca"> </tspan><tspan x="-8.28" y="136.72" sodipodi:role="line" id="trsvg9-ca">Juntura</tspan></text><text x="-8.28" y="128.55" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg24-hi" systemLanguage="hi"><tspan x="-8.28" y="128.55" sodipodi:role="line" id="trsvg8-hi">आवरण</tspan><tspan x="-8.28" y="136.72" sodipodi:role="line" id="trsvg9-hi">मुहर</tspan></text><text x="-8.28" y="128.55" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg24"><tspan x="-8.28" y="128.55" sodipodi:role="line" id="trsvg8">Case</tspan><tspan x="-8.28" y="136.72" sodipodi:role="line" id="trsvg9">seal</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6201-ru" x="88.14" y="74.74" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6199-ru" x="88.14" y="74.74" stroke-width=".096" sodipodi:role="line">Корпус</tspan></text>
+      
+     <text x="88.14" y="74.74" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg25-ca" systemLanguage="ca"><tspan x="88.14" y="74.74" stroke-width=".096" sodipodi:role="line" id="trsvg10-ca">Cos</tspan></text><text x="88.14" y="74.74" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg25-hi" systemLanguage="hi"><tspan x="88.14" y="74.74" stroke-width=".096" sodipodi:role="line" id="trsvg10-hi">आवरण</tspan></text><text x="88.14" y="74.74" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg25"><tspan x="88.14" y="74.74" stroke-width=".096" sodipodi:role="line" id="trsvg10">Case</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke">
+      <text id="text6205-ru" x="44.37" y="249.61" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6203-ru" x="44.37" y="249.61" sodipodi:role="line">Крышка</tspan><tspan id="tspan6207-ru" x="44.37" y="257.78" sodipodi:role="line">корпуса</tspan></text>
+      
+     <text x="44.37" y="249.61" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg26-ca" systemLanguage="ca"><tspan x="44.37" y="249.61" sodipodi:role="line" id="trsvg11-ca">Coberta</tspan><tspan x="44.37" y="257.78" sodipodi:role="line" id="trsvg12-ca">del cos</tspan></text><text x="44.37" y="249.61" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg26-hi" systemLanguage="hi"><tspan x="44.37" y="249.61" sodipodi:role="line" id="trsvg11-hi">आवरण</tspan><tspan x="44.37" y="257.78" sodipodi:role="line" id="trsvg12-hi">कवर</tspan></text><text x="44.37" y="249.61" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.17389393px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg26"><tspan x="44.37" y="249.61" sodipodi:role="line" id="trsvg11">Case</tspan><tspan x="44.37" y="257.78" sodipodi:role="line" id="trsvg12">cover</tspan></text></switch>
+    </g>
+    <g font-size="10" stroke="#9c8838" stroke-width=".1">
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke">
+      <text id="text6571-ru" x="190.98" y="157.71" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6569-ru" x="190.98" y="157.71" sodipodi:role="line">Крепёжный</tspan><tspan id="tspan6573-ru" x="190.98" y="166.21" sodipodi:role="line">фланец</tspan></text>
+      
+     <text x="190.98" y="157.71" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg27-ca" systemLanguage="ca"><tspan x="190.98" y="157.71" sodipodi:role="line" id="trsvg13-ca">Brida de</tspan><tspan x="190.98" y="166.21" sodipodi:role="line" id="trsvg14-ca">muntatge</tspan></text><text x="190.98" y="157.71" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg27-hi" systemLanguage="hi"><tspan x="190.98" y="157.71" sodipodi:role="line" id="trsvg13-hi">निर्धारण</tspan><tspan x="190.98" y="166.21" sodipodi:role="line" id="trsvg14-hi">द्वार</tspan></text><text x="190.98" y="157.71" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg27"><tspan x="190.98" y="157.71" sodipodi:role="line" id="trsvg13">Mounting</tspan><tspan x="190.98" y="166.21" sodipodi:role="line" id="trsvg14">flange</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke">
+      <text id="text6579-ru" x="176.39" y="190.25" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6577-ru" x="176.39" y="190.25" sodipodi:role="line">Входное</tspan><tspan id="tspan6581-ru" x="176.39" y="198.75" sodipodi:role="line">отверстие</tspan></text>
+      
+     <text x="176.39" y="190.25" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg28-ca" systemLanguage="ca"><tspan x="176.39" y="190.25" sodipodi:role="line" id="trsvg15-ca">Espirall</tspan><tspan x="176.39" y="198.75" sodipodi:role="line" id="trsvg16-ca"> </tspan></text><text x="176.39" y="190.25" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg28-hi" systemLanguage="hi"><tspan x="176.39" y="190.25" sodipodi:role="line" id="trsvg15-hi">दबाव</tspan><tspan x="176.39" y="198.75" sodipodi:role="line" id="trsvg16-hi">द्वार</tspan></text><text x="176.39" y="190.25" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg28"><tspan x="176.39" y="190.25" sodipodi:role="line" id="trsvg15">Pressure</tspan><tspan x="176.39" y="198.75" sodipodi:role="line" id="trsvg16">port</tspan></text></switch>
+     <switch font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke">
+      <text id="text6585-ru" x="32.84" y="81.23" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" systemLanguage="ru" xml:space="preserve"><tspan id="tspan6587-ru" x="32.84" y="81.23" sodipodi:role="line">Выходное</tspan><tspan id="tspan6591-ru" x="32.84" y="89.73" sodipodi:role="line">отверстие</tspan></text>
+      
+     <text x="32.84" y="81.23" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg29-ca" systemLanguage="ca"><tspan x="32.84" y="81.23" sodipodi:role="line" id="trsvg17-ca">Boca</tspan><tspan x="32.84" y="89.73" sodipodi:role="line" id="trsvg18-ca">d'aspiració</tspan></text><text x="32.84" y="81.23" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg29-hi" systemLanguage="hi"><tspan x="32.84" y="81.23" sodipodi:role="line" id="trsvg17-hi">चूषण</tspan><tspan x="32.84" y="89.73" sodipodi:role="line" id="trsvg18-hi">द्वार</tspan></text><text x="32.84" y="81.23" font-feature-settings="normal" font-variant-caps="normal" font-variant-ligatures="normal" font-variant-numeric="normal" line-height="8.5px" paint-order="fill markers stroke" xml:space="preserve" id="trsvg29"><tspan x="32.84" y="81.23" sodipodi:role="line" id="trsvg17">Suction</tspan><tspan x="32.84" y="89.73" sodipodi:role="line" id="trsvg18">port</tspan></text></switch>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
